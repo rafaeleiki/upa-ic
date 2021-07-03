@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/upa-ic/static/css/main.5fd24975.chunk.css",
+    "main.js": "/upa-ic/static/js/main.ff1d8216.chunk.js",
+    "main.js.map": "/upa-ic/static/js/main.ff1d8216.chunk.js.map",
+    "runtime-main.js": "/upa-ic/static/js/runtime-main.aa1262d4.js",
+    "runtime-main.js.map": "/upa-ic/static/js/runtime-main.aa1262d4.js.map",
+    "static/js/2.3dbc8ce8.chunk.js": "/upa-ic/static/js/2.3dbc8ce8.chunk.js",
+    "static/js/2.3dbc8ce8.chunk.js.map": "/upa-ic/static/js/2.3dbc8ce8.chunk.js.map",
+    "static/js/3.642fae6d.chunk.js": "/upa-ic/static/js/3.642fae6d.chunk.js",
+    "static/js/3.642fae6d.chunk.js.map": "/upa-ic/static/js/3.642fae6d.chunk.js.map",
+    "index.html": "/upa-ic/index.html",
+    "static/css/main.5fd24975.chunk.css.map": "/upa-ic/static/css/main.5fd24975.chunk.css.map",
+    "static/js/2.3dbc8ce8.chunk.js.LICENSE.txt": "/upa-ic/static/js/2.3dbc8ce8.chunk.js.LICENSE.txt",
+    "static/media/logo-ic.859b5493.png": "/upa-ic/static/media/logo-ic.859b5493.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa1262d4.js",
+    "static/js/2.3dbc8ce8.chunk.js",
+    "static/css/main.5fd24975.chunk.css",
+    "static/js/main.ff1d8216.chunk.js"
+  ]
+}
