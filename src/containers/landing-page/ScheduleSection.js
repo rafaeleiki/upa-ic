@@ -1,4 +1,4 @@
-import schedule from '../data/schedule.json';
+import schedule from '../../data/schedule.json';
 
 const { columns, columnsNames, data } = schedule;
 

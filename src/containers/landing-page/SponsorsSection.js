@@ -1,4 +1,4 @@
-import sponsors from "../data/sponsors.json";
+import sponsors from "../../data/sponsors.json";
 
 const { data } = sponsors;
 
