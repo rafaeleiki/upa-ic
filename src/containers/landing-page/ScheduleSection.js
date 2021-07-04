@@ -17,7 +17,7 @@ function Schedule() {
     <section className="section">
         <h2 className="title">Programação</h2>
 
-        <div className="container">
+        <div className="container is-widescreen">
           <table className="table is-striped is-centered">
             <thead>{ tableHeaders }</thead>
             <tfoot>{ tableHeaders }</tfoot>
