@@ -1,12 +1,12 @@
 {
-    "data": [
-        {
-            "imageUrl": "upa-ic/assets/ic.png",
-            "sponsorUrl": "http://www.ic.unicamp.br/"
-        },
-        {
-            "imageUrl": "upa-ic/assets/unicamp.png",
-            "sponsorUrl": "http://www.unicamp.br/"
-        }
-    ]
+  "data": [
+    {
+      "imageUrl": "upa-ic/assets/ic.png",
+      "sponsorUrl": "http://www.ic.unicamp.br/"
+    },
+    {
+      "imageUrl": "upa-ic/assets/unicamp.png",
+      "sponsorUrl": "http://www.unicamp.br/"
+    }
+  ]
 }
