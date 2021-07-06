@@ -1,0 +1,7 @@
+.schedule-item {
+  cursor: pointer;
+}
+
+.schedule-item:hover {
+  background-color: #d4e9f5 !important;
+}

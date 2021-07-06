@@ -1,6 +1,9 @@
 import { useState } from 'react';
 import ScheduleDialog from '../../components/ScheduleDialog';
 import schedule from '../../data/schedule.json';
+import {getPerson} from '../../utils/people';
+
+import './ScheduleSection.css';
 
 const { columns, columnsNames, data } = schedule;
 
@@ -12,15 +15,17 @@ function Schedule() {
   const renderScheduleItem = (item) => {
     const scheduleProps = {
       title: item.theme, 
-      description: 'Long description of the schedule item here', 
+      description: item.description, 
       author: { 
         name: item.assignee, 
-        shortBio: 'This is a person'
-      }, 
+        shortBio: getPerson(item.assignee).shortBio,
+      },
+      day: item.day,
+      hour: item.hour,
       closeDialog: () => setModalProps(null),
     };
 
-    return (<tr onClick={() => setModalProps(scheduleProps)}>
+    return (<tr className="schedule-item" onClick={() => setModalProps(scheduleProps)}>
       {columns.map((column, index) => (<td key={index}>{item[column]}</td>))}
     </tr>);
   };
