@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react';
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 
-import logoIc from './logo-ic.png'
+import './styles.css';
+import logoIc from './logo-ic.png';
 
 function AppBar() {
   const [open, setOpen] = useState(false)
@@ -14,9 +15,9 @@ function AppBar() {
     <nav className="navbar is-fixed-top">
       <div className="container">
         <div className="navbar-brand">
-          <a className="navbar-item">
+          <Link to="/" className="navbar-item">
             <img src={logoIc} alt="Logo" />
-          </a>
+          </Link>
           {open ? (
             <span className="navbar-burger" onClick={setOpen(true)}>
               <span></span>
@@ -27,7 +28,7 @@ function AppBar() {
         </div>
         <div id="navbarMenuHeroB" className="navbar-menu">
           <div className="navbar-end">
-            <NavLink to="/" className="navbar-item" activeClassName="is-active">UPA</NavLink>
+            <NavLink to="/home" className="navbar-item" activeClassName="is-active">UPA</NavLink>
             <NavLink to="/diversidade" className="navbar-item" activeClassName="is-active">Diversidade</NavLink>
             <NavLink to="/faq" className="navbar-item" activeClassName="is-active">Perguntas</NavLink>
           </div>
