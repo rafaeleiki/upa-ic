@@ -1,4 +1,6 @@
 import { useEffect } from 'react'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
 function ScheduleDialog(props) {
   const {
     title,
@@ -35,15 +37,17 @@ function ScheduleDialog(props) {
         <section className="modal-card-body has-text-justified">
           <p className="mb-4">{description}</p>
           <p className="has-text-weight-bold">{name}</p>
+
           <img
             className="is-rounded image is-128x128"
             src={imgPath}
             alt="Foto do palestrante"
-            align="left"
+            align="right"
           />
           <p>{shortBio}</p>
+          <p className="has-text-weight-bold">Contato</p>
           <a href={linkedinUrl} target="_blank">
-            Linkedin
+            <FontAwesomeIcon className="icon is-medium" icon={faLinkedin} />
           </a>
         </section>
         <footer className="modal-card-foot has-text-centered">
