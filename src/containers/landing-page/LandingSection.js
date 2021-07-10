@@ -1,6 +1,8 @@
 import { useEffect } from 'react';
-
 import bulmaCarousel from 'bulma-carousel/dist/js/bulma-carousel.min.js';
+
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 
 import './LandingSection.css';
 
@@ -38,7 +40,7 @@ function LandingSection() {
       <div className="hero-head pt-6">
         <div className="container has-text-centered p-2">
           <p className="title">
-            Instituto de Computação
+            <FontAwesomeIcon icon={faCoffee} /> Instituto de Computação
           </p>
           <p className="subtitle">Unicamp de Portas Abertas 2021</p>
           <p className="subtitle">20 a 23 de julho</p>
