@@ -1,6 +1,9 @@
 import faqData from "../../data/faq.json";
 
 const { data } = faqData;
+const filterFAQByType = (filterType) => data.filter(({ type }) => type === filterType);
+const courseQuestions = filterFAQByType('course');
+const upaQuestions = filterFAQByType('upa');
 
 const renderQuestion = ({ question, answer }) => (
   <div className="container is-max-desktop mb-4">
@@ -14,9 +17,18 @@ const renderQuestion = ({ question, answer }) => (
 function FAQPage() {
   return (<section class="section">
     <h1 class="title">FAQ</h1>
-    <h2 class="subtitle">Perguntas frequentes sobre os nossos cursos</h2>
+    <h2 class="subtitle">Perguntas frequentes</h2>
 
-    { data.map(renderQuestion) }
+    <div className="columns">
+    <div className="column">
+        <h3 class="subtitle">Perguntas sobre o UPA</h3>
+        { upaQuestions.map(renderQuestion) }
+      </div>
+      <div className="column">
+        <h3 class="subtitle">Perguntas sobre o curso</h3>
+        { courseQuestions.map(renderQuestion) }
+      </div>
+    </div>
     
   </section>);
 }

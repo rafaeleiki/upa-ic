@@ -1,26 +1,32 @@
 {
   "data": [
     { 
+      "type": "upa",
       "question": "Qual a diferença entre Ciência da Computação e Engenharia da Computação?",
       "answer": "Depende da modalidade de Engenharia da Computação que você escolher. No caso de ..."
     },
     { 
+      "type": "upa",
       "question": "Qual a diferença entre Ciência da Computação e Engenharia da Computação?",
       "answer": "Depende da modalidade de Engenharia da Computação que você escolher. No caso de ..."
     },
     { 
+      "type": "upa",
       "question": "Qual a diferença entre Ciência da Computação e Engenharia da Computação?",
       "answer": "Depende da modalidade de Engenharia da Computação que você escolher. No caso de ..."
     },
     { 
+      "type": "course",
       "question": "Qual a diferença entre Ciência da Computação e Engenharia da Computação?",
       "answer": "Depende da modalidade de Engenharia da Computação que você escolher. No caso de ..."
     },
     { 
+      "type": "course",
       "question": "Qual a diferença entre Ciência da Computação e Engenharia da Computação?",
       "answer": "Depende da modalidade de Engenharia da Computação que você escolher. No caso de ..."
     },
     { 
+      "type": "course",
       "question": "Qual a diferença entre Ciência da Computação e Engenharia da Computação?",
       "answer": "Depende da modalidade de Engenharia da Computação que você escolher. No caso de ..."
     }
