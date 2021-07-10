@@ -1,8 +1,8 @@
-import { Fragment } from "react";
+import { Fragment } from 'react'
 
-import LandingSection from './LandingSection';
-import ScheduleSection from './ScheduleSection';
-import SponsorsSection from './SponsorsSection';
+import LandingSection from './LandingSection'
+import ScheduleSection from './ScheduleSection'
+import SponsorsSection from './SponsorsSection'
 
 function LandingPage() {
   return (
@@ -11,7 +11,7 @@ function LandingPage() {
       <ScheduleSection />
       <SponsorsSection />
     </Fragment>
-  );
+  )
 }
 
-export default LandingPage;
+export default LandingPage

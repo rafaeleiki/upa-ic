@@ -1,9 +1,9 @@
-import { BrowserRouter as Router } from "react-router-dom";
+import { BrowserRouter as Router } from 'react-router-dom'
 
-import './App.css';
+import './App.css'
 
-import Routes from './Routes';
-import AppBar from './components/AppBar';
+import Routes from './Routes'
+import AppBar from './components/AppBar'
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
         <Routes />
       </div>
     </Router>
-  );
+  )
 }
 
-export default App;
+export default App

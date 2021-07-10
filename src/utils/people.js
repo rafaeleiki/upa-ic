@@ -1,5 +1,5 @@
-import people from '../data/people.json';
+import people from '../data/people.json'
 
 export function getPerson(name) {
-  return people[name];
+  return people[name]
 }
