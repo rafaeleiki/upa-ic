@@ -9,6 +9,7 @@ function LandingPage() {
     <Fragment>
       <LandingSection />
       <ScheduleSection />
+      <hr />
       <SponsorsSection />
     </Fragment>
   )

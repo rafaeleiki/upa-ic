@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faQuestion } from '@fortawesome/free-solid-svg-icons'
+import { faSearch } from '@fortawesome/free-solid-svg-icons'
 
 import faqData from "../../data/faq.json";
 
@@ -40,7 +40,7 @@ function FAQPage() {
       <div className="control has-icons-left has-icons-right">
         <input className="input" type="email" placeholder="Digite um pedaço da sua pergunta" onChange={(e) => setQuery(e.target.value)} />
         <span className="icon is-small is-left">
-          <FontAwesomeIcon icon={faQuestion} />
+          <FontAwesomeIcon icon={faSearch} />
         </span>
         <span className="icon is-small is-right">
           <i className="fas fa-check"></i>
