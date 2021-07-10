@@ -1,6 +1,6 @@
-import sponsors from "../../data/sponsors.json";
+import sponsors from '../../data/sponsors.json'
 
-const { data } = sponsors;
+const { data } = sponsors
 
 function SponsorsSection() {
   return (
@@ -11,12 +11,11 @@ function SponsorsSection() {
         {data.map((sponsor) => (
           <a className="p-6" href={sponsor.sponsorUrl} target="_blank">
             <img className="image is-128x128" src={sponsor.imageUrl} />
-          </a>))
-        }
+          </a>
+        ))}
       </div>
-
     </section>
-  );
+  )
 }
 
-export default SponsorsSection;
+export default SponsorsSection

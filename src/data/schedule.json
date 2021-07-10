@@ -1,10 +1,5 @@
 {
-  "columns": [
-    "day",
-    "hour",
-    "theme",
-    "assignee"
-  ],
+  "columns": ["day", "hour", "theme", "assignee"],
   "columnsNames": {
     "day": "Dia",
     "hour": "Hora",

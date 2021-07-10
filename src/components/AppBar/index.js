@@ -1,13 +1,13 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react'
 
-import logoIc from './logo-ic.png';
+import logoIc from './logo-ic.png'
 
 function AppBar() {
-  const [open, setOpen] = useState(false);
+  const [open, setOpen] = useState(false)
 
   useEffect(() => {
-    document.documentElement.classList.add('has-navbar-fixed-top');
-  });
+    document.documentElement.classList.add('has-navbar-fixed-top')
+  })
 
   return (
     <nav className="navbar is-fixed-top">
@@ -16,14 +16,13 @@ function AppBar() {
           <a className="navbar-item">
             <img src={logoIc} alt="Logo" />
           </a>
-          {open ?
-            (<span className="navbar-burger" onClick={setOpen(true)}>
+          {open ? (
+            <span className="navbar-burger" onClick={setOpen(true)}>
               <span></span>
               <span></span>
               <span></span>
-            </span>)
-            : null
-          }
+            </span>
+          ) : null}
         </div>
         <div id="navbarMenuHeroB" className="navbar-menu">
           <div className="navbar-end">
@@ -33,7 +32,8 @@ function AppBar() {
           </div>
         </div>
       </div>
-    </nav>);
+    </nav>
+  )
 }
 
-export default AppBar;
+export default AppBar
