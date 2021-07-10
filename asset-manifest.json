@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/upa/static/css/main.57f2080a.chunk.css",
-    "main.js": "/upa/static/js/main.79814f2d.chunk.js",
-    "main.js.map": "/upa/static/js/main.79814f2d.chunk.js.map",
-    "runtime-main.js": "/upa/static/js/runtime-main.e5a32af6.js",
-    "runtime-main.js.map": "/upa/static/js/runtime-main.e5a32af6.js.map",
-    "static/css/2.053f45e6.chunk.css": "/upa/static/css/2.053f45e6.chunk.css",
-    "static/js/2.ff48ea39.chunk.js": "/upa/static/js/2.ff48ea39.chunk.js",
-    "static/js/2.ff48ea39.chunk.js.map": "/upa/static/js/2.ff48ea39.chunk.js.map",
-    "static/js/3.3de8bcd6.chunk.js": "/upa/static/js/3.3de8bcd6.chunk.js",
-    "static/js/3.3de8bcd6.chunk.js.map": "/upa/static/js/3.3de8bcd6.chunk.js.map",
-    "index.html": "/upa/index.html",
-    "static/css/2.053f45e6.chunk.css.map": "/upa/static/css/2.053f45e6.chunk.css.map",
-    "static/css/main.57f2080a.chunk.css.map": "/upa/static/css/main.57f2080a.chunk.css.map",
-    "static/js/2.ff48ea39.chunk.js.LICENSE.txt": "/upa/static/js/2.ff48ea39.chunk.js.LICENSE.txt",
-    "static/media/LandingSection.css": "/upa/static/media/banner.983f56a4.jpeg",
-    "static/media/logo-ic.859b5493.png": "/upa/static/media/logo-ic.859b5493.png",
-    "static/media/styles.css": "/upa/static/media/woman-panel.fe7c6a06.jpeg"
+    "main.css": "/upa-ic/static/css/main.1dac05a1.chunk.css",
+    "main.js": "/upa-ic/static/js/main.3c48f318.chunk.js",
+    "main.js.map": "/upa-ic/static/js/main.3c48f318.chunk.js.map",
+    "runtime-main.js": "/upa-ic/static/js/runtime-main.e0e4d2b3.js",
+    "runtime-main.js.map": "/upa-ic/static/js/runtime-main.e0e4d2b3.js.map",
+    "static/css/2.053f45e6.chunk.css": "/upa-ic/static/css/2.053f45e6.chunk.css",
+    "static/js/2.aa5c4422.chunk.js": "/upa-ic/static/js/2.aa5c4422.chunk.js",
+    "static/js/2.aa5c4422.chunk.js.map": "/upa-ic/static/js/2.aa5c4422.chunk.js.map",
+    "static/js/3.3de8bcd6.chunk.js": "/upa-ic/static/js/3.3de8bcd6.chunk.js",
+    "static/js/3.3de8bcd6.chunk.js.map": "/upa-ic/static/js/3.3de8bcd6.chunk.js.map",
+    "index.html": "/upa-ic/index.html",
+    "static/css/2.053f45e6.chunk.css.map": "/upa-ic/static/css/2.053f45e6.chunk.css.map",
+    "static/css/main.1dac05a1.chunk.css.map": "/upa-ic/static/css/main.1dac05a1.chunk.css.map",
+    "static/js/2.aa5c4422.chunk.js.LICENSE.txt": "/upa-ic/static/js/2.aa5c4422.chunk.js.LICENSE.txt",
+    "static/media/LandingSection.css": "/upa-ic/static/media/banner.983f56a4.jpeg",
+    "static/media/logo-ic.859b5493.png": "/upa-ic/static/media/logo-ic.859b5493.png",
+    "static/media/styles.css": "/upa-ic/static/media/woman-panel.fe7c6a06.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5a32af6.js",
+    "static/js/runtime-main.e0e4d2b3.js",
     "static/css/2.053f45e6.chunk.css",
-    "static/js/2.ff48ea39.chunk.js",
-    "static/css/main.57f2080a.chunk.css",
-    "static/js/main.79814f2d.chunk.js"
+    "static/js/2.aa5c4422.chunk.js",
+    "static/css/main.1dac05a1.chunk.css",
+    "static/js/main.3c48f318.chunk.js"
   ]
 }
