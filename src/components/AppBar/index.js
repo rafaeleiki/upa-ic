@@ -28,6 +28,7 @@ function AppBar() {
         <div id="navbarMenuHeroB" className="navbar-menu">
           <div className="navbar-end">
             <NavLink to="/" className="navbar-item" activeClassName="is-active">UPA</NavLink>
+            <NavLink to="/diversidade" className="navbar-item" activeClassName="is-active">Diversidade</NavLink>
             <NavLink to="/faq" className="navbar-item" activeClassName="is-active">Perguntas</NavLink>
           </div>
         </div>
