@@ -1,7 +1,4 @@
-import {
-    Switch,
-    Route,
-  } from "react-router-dom";
+import { Switch, Route } from 'react-router-dom'
 
 import FAQPage from "./containers/faq";
 import LandingPage from './containers/landing-page';
@@ -15,4 +12,4 @@ function Routes() {
     );
 }
 
-export default Routes;
+export default Routes
