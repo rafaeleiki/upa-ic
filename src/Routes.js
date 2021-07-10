@@ -1,15 +1,15 @@
 import { Switch, Route } from 'react-router-dom'
 
-import LandingPage from './containers/landing-page'
+import FAQPage from "./containers/faq";
+import LandingPage from './containers/landing-page';
 
 function Routes() {
-  return (
-    <Switch>
-      <Route path="/">
-        <LandingPage />
-      </Route>
-    </Switch>
-  )
+    return (
+        <Switch>
+            <Route path="/faq"><FAQPage /></Route>
+            <Route path="/"><LandingPage /></Route>
+        </Switch>
+    );
 }
 
 export default Routes

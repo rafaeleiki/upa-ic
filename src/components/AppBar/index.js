@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect } from 'react';
+import { NavLink } from "react-router-dom";
 
 import logoIc from './logo-ic.png'
 
@@ -26,9 +27,8 @@ function AppBar() {
         </div>
         <div id="navbarMenuHeroB" className="navbar-menu">
           <div className="navbar-end">
-            <a className="navbar-item is-active">Instituto</a>
-            <a className="navbar-item">Programação</a>
-            <a className="navbar-item">Diversidade</a>
+            <NavLink to="/" className="navbar-item" activeClassName="is-active">UPA</NavLink>
+            <NavLink to="/faq" className="navbar-item" activeClassName="is-active">Perguntas</NavLink>
           </div>
         </div>
       </div>
