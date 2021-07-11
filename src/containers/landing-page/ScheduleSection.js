@@ -15,28 +15,38 @@ function Schedule() {
   ))
 
   const renderScheduleItem = (item) => {
+    console.log(item)
     const scheduleProps = {
       title: item.theme,
       description: item.description,
-      author: {
-        name: item.assignee,
-        shortBio: getPerson(item.assignee).shortBio,
-      },
+      author: item.assignee.map((speaker) => {
+        const speakerDetails = getPerson(speaker)
+        if (speakerDetails !== undefined) {
+          return {
+            name: speaker,
+            shortBio: speakerDetails.shortBio,
+            linkedinUrl: speakerDetails.linkedinUrl,
+            imgPath: speakerDetails.imgPath,
+          }
+        }
+        return undefined
+      }),
       day: item.day,
       hour: item.hour,
-      linkedinUrl: getPerson(item.assignee).linkedinUrl,
-      imgPath: getPerson(item.assignee).imgPath,
       closeDialog: () => setModalProps(null),
     }
-
     return (
       <tr
         className="schedule-item"
         onClick={() => setModalProps(scheduleProps)}
       >
-        {columns.map((column, index) => (
-          <td key={index}>{item[column]}</td>
-        ))}
+        {columns.map((column, index) => {
+          let cellData = item[column]
+          if (column === 'assignee') {
+            cellData = cellData.join(', ').replace(/, ([^,]*)$/, ' e $1')
+          }
+          return <td key={index}>{cellData}</td>
+        })}
       </tr>
     )
   }
