@@ -1,60 +1,190 @@
 {
-  "columns": ["day", "hour", "theme", "assignee"],
-  "columnsNames": {
-    "day": "Dia",
-    "hour": "Hora",
-    "theme": "Tema",
-    "assignee": "Palestrante"
-  },
-  "data": [
-    {
-      "day": "20/07",
-      "hour": "13:00",
-      "theme": "Tira dúvidas",
-      "assignee": "João da Silva",
-      "description": "Nessa conversa, será falado sobre tópicos de Computação que são estudados na UNICAMP."
+    "columns": [
+        "day",
+        "hour",
+        "theme",
+        "assignee"
+    ],
+    "columnsNames": {
+        "day": "Dia",
+        "hour": "Hora",
+        "theme": "Tema",
+        "assignee": "Palestrante"
     },
-    {
-      "day": "20/07",
-      "hour": "13:00",
-      "theme": "Tira dúvidas",
-      "assignee": "João da Silva",
-      "description": "Nessa conversa, será falado sobre tópicos de Computação que são estudados na UNICAMP."
-    },
-    {
-      "day": "20/07",
-      "hour": "13:00",
-      "theme": "Tira dúvidas",
-      "assignee": "João da Silva",
-      "description": "Nessa conversa, será falado sobre tópicos de Computação que são estudados na UNICAMP."
-    },
-    {
-      "day": "20/07",
-      "hour": "13:00",
-      "theme": "Tira dúvidas",
-      "assignee": "João da Silva",
-      "description": "Nessa conversa, será falado sobre tópicos de Computação que são estudados na UNICAMP."
-    },
-    {
-      "day": "20/07",
-      "hour": "13:00",
-      "theme": "Tira dúvidas",
-      "assignee": "João da Silva",
-      "description": "Nessa conversa, será falado sobre tópicos de Computação que são estudados na UNICAMP."
-    },
-    {
-      "day": "20/07",
-      "hour": "13:00",
-      "theme": "Tira dúvidas",
-      "assignee": "João da Silva",
-      "description": "Nessa conversa, será falado sobre tópicos de Computação que são estudados na UNICAMP."
-    },
-    {
-      "day": "20/07",
-      "hour": "13:00",
-      "theme": "Tira dúvidas",
-      "assignee": "João da Silva",
-      "description": "Nessa conversa, será falado sobre tópicos de Computação que são estudados na UNICAMP."
-    }
-  ]
+    "data": [{
+            "day": "20/07",
+            "hour": "14:00",
+            "theme": "Apresentação dos Cursos",
+            "assignee": "Esther Luna Colombini",
+            "description": "Serão apresentados os cursos de Ciência da Computação e Engenharia da Computação oferecidos pelo Instituto de Computação (IC). Iremos conversar um pouco sobre o que é Computação, a duração dos cursos e o fluxo de disciplinas, assim como as áreas de atuação e oportunidades na carreira."
+        },
+        {
+            "day": "20/07",
+            "hour": "14:40",
+            "theme": "Mulheres na Computação",
+            "assignee": "Sandra, Esther e Juliana",
+            "description": "Você sabia que as mulheres crescem com grande medo de falharem e acabam se sentindo intimidadas pela programação, que é um grande processo de errar e aprender? Você sabia que muitas pessoas acham que computação é uma área só para homens \"nerds\" que jogam videogame? Queremos te mostrar que não é bem assim! Nesta palestra, três professoras de computação da Unicamp vão bater um papo sobre desafios que encontraram ao longo de suas carreiras e como isso não as impediu de serem referências mundiais nas áreas de Internet das Coisas, Inteligência Artificial e Robótica."
+        },
+        {
+            "day": "20/07",
+            "hour": "15:20",
+            "theme": "Como sistemas de software são desenvolvidos?",
+            "assignee": "Breno França",
+            "description": "Hoje o software está presente em praticamente todas as nossas atividades diárias. Mas você sabe como eles nascem?\nNessa palestra vamos fazer um tour pelo processo de desenvolvimento de software, entendendo as atividades, os papéis que os engenheiros de software precisam desempenhar e as habilidades técnicas e sociais requeridas pelos envolvidos nesse processo."
+        },
+        {
+            "day": "20/07",
+            "hour": "16:00",
+            "theme": "Ciência vs Engenharia da Computação",
+            "assignee": "Akari Ueda",
+            "description": "Está com dúvidas sobre quais são as diferenças entre os dois cursos de computação da Unicamp? Nesta palestra vamos comparar as disciplinas estudadas, a atuação no mercado de trabalho e as oportunidades de cada curso. Spoiler: os cursos são praticamente iguais, a escolha depende mais do seu perfil."
+        },
+        {
+            "day": "20/07",
+            "hour": "16:40",
+            "theme": "Entidade - GAMUX",
+            "assignee": "Alec Santos",
+            "description": "Saiba mais sobre o grupo de desenvolvimento de jogos da UNICAMP, o GAMUX! Nós organizamos maratonas de desenvolvimento de jogos; damos cursos introdutórios sobre arte, roteiro e programação de jogos; participamos de competições, e, claro, jogamos juntos de vez em quando :)"
+        },
+        {
+            "day": "20/07",
+            "hour": "17-10",
+            "theme": "IRIS Data Science",
+            "assignee": "Ana Clara e Henrique Foerste",
+            "description": "O IRIS Data Science foi fundado em 2019, por alunos da Engenharia e da Ciência da Computação. Henrique e Ana vão apresentar a entidade e falar um pouco dos projetos que já aconteceram. A entidade estuda inteligência artificial e Data Science com projetos extracurriculares. Há projetos de Classificação de Imagens, Classificação de Músicas, entre outros. A entidade também organiza palestras e workshops."
+        },
+        {
+            "day": "21/07",
+            "hour": "14:00",
+            "theme": "Apresentação dos Cursos",
+            "assignee": "Lehilton Pedrosa",
+            "description": "Serão apresentados os cursos de Ciência da Computação e Engenharia da Computação oferecidos pelo Instituto de Computação (IC). Iremos conversar um pouco sobre o que é Computação, a duração dos cursos e o fluxo de disciplinas, assim como as áreas de atuação e oportunidades na carreira."
+        },
+        {
+            "day": "21/07",
+            "hour": "14:30",
+            "theme": "Parceria Estudantil com Empresas de Tecnologia - SECOMP",
+            "assignee": "Ygor Silva",
+            "description": "Não é necessário concluir o curso para entrar no mercado da computação! Já imaginou ter contato com empresas como Motorola, Santander e Samsung ou startups promissoras sendo um estudante? Venha conhecer mais sobre a SECOMP, um evento organizado com esse propósito."
+        },
+        {
+            "day": "21/07",
+            "hour": "14:50",
+            "theme": "Computação - a ciência, o mercado e a graduação.",
+            "assignee": "Felipe Bidu",
+            "description": "Nessa palestra, Bidu dará um breve resumo sobre sua carreira como desenvolvedor de software, seu tempo na graduação e suas visões sobre como o mercado de desenvolvimento se comunica com os aspectos - maravilhosos! - da ciência da computação e de uma graduação na área."
+        },
+        {
+            "day": "21/07",
+            "hour": "15:25",
+            "theme": "Guia do Mochileiro da Computação",
+            "assignee": "André Santanché",
+            "description": "A palestra dará uma visão geral da profissão em computação, falando de perfis específicos como: hardware, software, análise de sistemas, TI, cientista e engenheiro de dados. Será apresentada uma breve visão da carreira do pesquisador. A palestra traz uma experiência pessoal sobre a carreira e haverá espaço para debate e dúvidas."
+        },
+        {
+            "day": "21/07",
+            "hour": "15:50",
+            "theme": "CACO",
+            "assignee": "a definir",
+            "description": "Nessa apresentação vamos trazer alguns de nossos integrantes pra contar sobre como é participar disso tudo e aproveitar pra mostrar um pouco dos nossos últimos projetos."
+        },
+        {
+            "day": "21/07",
+            "hour": "16:20",
+            "theme": "15 carreiras possíveis em computação",
+            "assignee": "Rafael Eiki",
+            "description": "A computação é uma área vasta e que permite profissionais exercerem muitas funções. Nesta conversa serão mostradas 15 dessas funções, habilidades e interesses importantes para exercê-las e oportunidades interessantes para desenvolver elas na graduação."
+        },
+        {
+            "day": "21/07",
+            "hour": "17:00",
+            "theme": "O Mercado da Computação",
+            "assignee": "Conpec",
+            "description": "A Computação é sem dúvida nenhuma uma das áreas mais flexíveis e extensas no sentido de atuação profissional. Compreender o que te chama atenção é muito importante para se encontrar em um Mercado tão amplo. Por isso, a Conpec vai tratar de alguns dos diferentes caminhos possíveis na área e as principais competências requeridas."
+        },
+        {
+            "day": "22/07",
+            "hour": "14:00",
+            "theme": "O surpreendente mundo da computação: \numa área para todos",
+            "assignee": "Flávia Pisani",
+            "description": "a definir"
+        },
+        {
+            "day": "22/07",
+            "hour": "14:40",
+            "theme": "Mulheres na Computação",
+            "assignee": "Sandra, Esther e Juliana",
+            "description": "Você sabia que as mulheres crescem com grande medo de falharem e acabam se sentindo intimidadas pela programação, que é um grande processo de errar e aprender? Você sabia que muitas pessoas acham que computação é uma área só para homens \"nerds\" que jogam videogame? Queremos te mostrar que não é bem assim! Nesta palestra, três professoras de computação da Unicamp vão bater um papo sobre desafios que encontraram ao longo de suas carreiras e como isso não as impediu de serem referências mundiais nas áreas de Internet das Coisas, Inteligência Artificial e Robótica."
+        },
+        {
+            "day": "22/07",
+            "hour": "15:10",
+            "theme": "Apresentação dos Cursos",
+            "assignee": "Esther Luna Colombini",
+            "description": "Serão apresentados os cursos de Ciência da Computação e Engenharia da Computação oferecidos pelo Instituto de Computação (IC). Iremos conversar um pouco sobre o que é Computação, a duração dos cursos e o fluxo de disciplinas, assim como as áreas de atuação e oportunidades na carreira."
+        },
+        {
+            "day": "22/07",
+            "hour": "15:40",
+            "theme": "Computação: quais as possibilidades no mercado de trabalho?",
+            "assignee": "Guilherme Furlan",
+            "description": "a definir"
+        },
+        {
+            "day": "22/07",
+            "hour": "16:10",
+            "theme": "Apoio e Representatividade no ambiente universitário",
+            "assignee": "Ana Claudia",
+            "description": "Nesse espaço vamos apresentar o coletivo Engenho Negro com a finalidade de debater a importância da representatividade e suporte para es ingressantes negres. A implementação das cotas étnico raciais na Unicamp ainda é muito recente, e nós como coletivo, achamos importante apresentar para es futures integrantes negres a existência de ambientes de resistência e acolhimento, com debates, e espaço para compartilhar vivências pessoais e aprendermos juntes."
+        },
+        {
+            "day": "22/07",
+            "hour": "16:50",
+            "theme": "Roda de conversa sobre robótica com a Phoenix",
+            "assignee": "Ivan Gabriel Klug Runge e Leonardo Kenji Kobaicy",
+            "description": "Se interessa por robótica?  Gostaria de saber como robôs autônomos são feitos e aprender a programá-los do zero? O que acha de vir conversar com a gente sobre os projetos da equipe de robótica de uma das maiores universidades do país? A equipe Phoenix participa de várias competições de robótica em diversas categorias e toparam apresentar um poucos de seus projetos e a equipe em geral, que inclusive já foi muito premiada, batendo recordes e, agora, está participando de campeonatos internacionais em categorias inovadoras! Vem bater um papo com a gente!"
+        },
+        {
+            "day": "23/07",
+            "hour": "14:00",
+            "theme": "Apresentação dos Cursos",
+            "assignee": "Lehilton Pedrosa",
+            "description": "Serão apresentados os cursos de Ciência da Computação e Engenharia da Computação oferecidos pelo Instituto de Computação (IC). Iremos conversar um pouco sobre o que é Computação, a duração dos cursos e o fluxo de disciplinas, assim como as áreas de atuação e oportunidades na carreira."
+        },
+        {
+            "day": "23/07",
+            "hour": "14:40",
+            "theme": "Trabalhando com computação sem programação",
+            "assignee": "Beatriz Inácio",
+            "description": "Muitos pensam que quem vai pra área da computação passa o dia todo escrevendo código; ou são hackers; ou produzem jogos ou trabalham estritamente com desenvolvimento de programas. Mas será que essas funções são o limite da atuação desse profissional? Nesta palestra pretendo expandir o mundo da computação para além da programação."
+        },
+        {
+            "day": "23/07",
+            "hour": "15:20",
+            "theme": "Guia do Mochileiro da Computação",
+            "assignee": "André Santanché",
+            "description": "A palestra dará uma visão geral da profissão em computação, falando de perfis específicos como: hardware, software, análise de sistemas, TI, cientista e engenheiro de dados. Será apresentada uma breve visão da carreira do pesquisador. A palestra traz uma experiência pessoal sobre a carreira e haverá espaço para debate e dúvidas."
+        },
+        {
+            "day": "23/07",
+            "hour": "15:50",
+            "theme": "A vivência na Universidade além das disciplinas: O olhar de uma mulher na computação",
+            "assignee": "Marcela Medicina",
+            "description": "Nós sabemos que as disciplinas são parte essencial da nossa formação profissional, mas a universidade, em especial a UNICAMP, pode nos oferecer muitas experiências que vão além da sala de aula e contribuem muito positivamente para evoluirmos como pessoas, pesquisadores e futuros profissionais. Além das atividades extracurriculares como extensão e pesquisa na UNICAMP, falarei da minha vivência como mulher em cursos majoritariamente masculinos, quais foram minhas dificuldades e o que me manteve até aqui."
+        },
+        {
+            "day": "23/07",
+            "hour": "16:20",
+            "theme": "Da Graduação ao Exterior: a paixão por games no desenvolvimento profissional",
+            "assignee": "Thiago Amendola",
+            "description": "Vou contar sobre o início da minha graduação, como minha afinidade por games me fez conhecer o Gamux e o impacto disso para minha carreira no exterior."
+        },
+        {
+            "day": "23/07",
+            "hour": "16:50",
+            "theme": "Horário de palestra disponível",
+            "assignee": "a definir",
+            "description": "a definir"
+        }
+    ]
 }
