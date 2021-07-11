@@ -7,7 +7,7 @@ import LandingPage from './containers/landing-page'
 function Routes() {
   return (
     <Switch>
-      <Route path="/">
+      <Route path="/upa">
         <LandingPage />
       </Route>
       <Route path="/faq">
@@ -16,8 +16,8 @@ function Routes() {
       <Route path="/diversidade">
         <DiversityPage />
       </Route>
-      <Route path="/">
-        <Redirect to="/" />
+      <Route path="/upa">
+        <Redirect to="/upa" />
       </Route>
     </Switch>
   )
