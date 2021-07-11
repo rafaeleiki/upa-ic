@@ -1,8 +1,8 @@
-import React, { useState, useEffect } from 'react';
-import { NavLink, Link } from "react-router-dom";
+import React, { useState, useEffect } from 'react'
+import { NavLink, Link } from 'react-router-dom'
 
-import './styles.css';
-import logoIc from './logo-ic.png';
+import './styles.css'
+import logoIc from './logo-ic.png'
 
 function AppBar() {
   const [open, setOpen] = useState(false)
@@ -15,7 +15,7 @@ function AppBar() {
     <nav className="navbar is-fixed-top">
       <div className="container">
         <div className="navbar-brand">
-          <Link to="/" className="navbar-item">
+          <Link to="/upa" className="navbar-item">
             <img src={logoIc} alt="Logo" />
           </Link>
           {open ? (
@@ -28,9 +28,27 @@ function AppBar() {
         </div>
         <div id="navbarMenuHeroB" className="navbar-menu">
           <div className="navbar-end">
-            <NavLink to="/home" className="navbar-item" activeClassName="is-active">UPA</NavLink>
-            <NavLink to="/diversidade" className="navbar-item" activeClassName="is-active">Diversidade</NavLink>
-            <NavLink to="/faq" className="navbar-item" activeClassName="is-active">Perguntas</NavLink>
+            <NavLink
+              to="/upa"
+              className="navbar-item"
+              activeClassName="is-active"
+            >
+              UPA
+            </NavLink>
+            <NavLink
+              to="/diversidade"
+              className="navbar-item"
+              activeClassName="is-active"
+            >
+              Diversidade
+            </NavLink>
+            <NavLink
+              to="/faq"
+              className="navbar-item"
+              activeClassName="is-active"
+            >
+              Perguntas
+            </NavLink>
           </div>
         </div>
       </div>
