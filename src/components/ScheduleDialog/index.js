@@ -1,6 +1,9 @@
 import { useEffect } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons'
+
+import './styles.css'
+
 function ScheduleDialog(props) {
   const { title, description, author, day, hour, closeDialog } = props
 
@@ -18,17 +21,25 @@ function ScheduleDialog(props) {
       return (
         <>
           <p className="has-text-weight-bold">{author.name}</p>
-          <img
-            className="is-rounded image is-128x128"
-            src={author.imgPath}
-            alt="Foto do palestrante"
-            align="right"
-          />
-          <p>{author.shortBio}</p>
-          <p className="has-text-weight-bold">Contato</p>
-          <a href={author.linkedinUrl} target="_blank">
-            <FontAwesomeIcon className="icon is-medium" icon={faLinkedin} />
-          </a>
+          {author.imgPath !== '' && (
+            <img
+              className="image img"
+              src={author.imgPath}
+              alt="Foto do palestrante"
+              align="right"
+            />
+          )}
+          {author.shortBio !== '' && <p>{author.shortBio}</p>}
+          {author.linkedinUrl !== '' && (
+            <>
+              <p className="has-text-weight-bold">
+                Mais informações do palestrante
+              </p>
+              <a href={author.linkedinUrl} target="_blank">
+                <FontAwesomeIcon className="icon is-medium" icon={faLinkedin} />
+              </a>
+            </>
+          )}
         </>
       )
     }

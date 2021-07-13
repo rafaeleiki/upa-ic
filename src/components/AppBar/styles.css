@@ -3,9 +3,14 @@
 }
 
 .navbar-item.is-active {
-  
 }
 
-.navbar-item.is-active:nth-child(1) { background-color: #f7e6d0 !important; }
-.navbar-item.is-active:nth-child(2) { background-color: #f7d0db !important; }
-.navbar-item.is-active:nth-child(3) { background-color: #D0EAF7 !important; }
+.navbar-item.is-active:nth-child(1) {
+  background-color: #f7e6d0 !important;
+}
+.navbar-item.is-active:nth-child(2) {
+  background-color: #f7d0db !important;
+}
+.navbar-item.is-active:nth-child(3) {
+  background-color: #d0eaf7 !important;
+}

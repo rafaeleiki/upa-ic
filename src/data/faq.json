@@ -1,136 +1,136 @@
 {
   "data": [
-    { 
+    {
       "type": "upa",
       "question": "Como será o UPA do Instituto de Computação?",
       "answer": "O evento será 100% online esse ano, através de uma transmissão no YouTube. Basta um celular, tablet ou computador para participar. Acesse a nossa programação aqui e os links das transmissões aqui."
     },
-    { 
+    {
       "type": "upa",
       "question": "Preciso me inscrever antes?",
       "answer": "Não. Fique à vontade para abrir a transmissão no YouTube quando quiser e participar."
     },
-    { 
+    {
       "type": "upa",
       "question": "Preciso pagar para participar?",
       "answer": "Não! O evento é 100% gratuito!"
     },
-    { 
+    {
       "type": "upa",
       "question": "Posso chamar meus amigos e meus pais para assistir comigo?",
       "answer": "Com certeza! Amigos e a família são peças importantes na hora de te ajudar a escolher uma carreira. É muito comum alunos participarem do UPA acompanhados pelos pais ou responsáveis."
     },
-    { 
+    {
       "type": "upa",
       "question": "Posso assistir só uma palestra ou preciso assistir o evento inteiro?",
       "answer": "Fique à vontade para assistir apenas às palestras que você tem interesse. No cronograma você consegue ver a descrição de cada palestra para decidir o que assistir."
     },
-    { 
+    {
       "type": "upa",
       "question": "As palestras ficarão gravadas após o UPA?",
       "answer": "Sim. Elas ficarão disponíveis no canal do Instituto de Computação da Unicamp no <a href='https://aovivo.ic.unicamp.br' target='_blank'>aovivo.ic.unicamp.br</a>. "
     },
-    { 
+    {
       "type": "course",
       "question": "Posso trabalhar enquanto faço o curso?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Qual a diferença entre Ciência da Computação e Engenharia da Computação?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Qual a atuação de um Cientista ou Engenheiro da Computação no mercado de trabalho?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Qual curso é melhor para fazer jogos?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "O curso cobre disciplinas envolvendo Design e Photoshop?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Qual o nível de empregabilidade de alguém formado em Computação na Unicamp?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "A Unicamp oferece bolsa para ajudar na permanência de alunos carentes?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Vocês têm curso de Análise de Sistemas ou Sistemas de Informação?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Não gosto de matemática/física, posso fazer Computação?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Precisa saber inglês para fazer Computação?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Vim de escola pública, vou ter dificuldades de fazer Computação?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Vocês têm a possibilidade de fazer intercâmbio?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Que disciplinas existem nos cursos de Ciência e Engenharia de Computação?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Quais são as modalidades do curso de Engenharia de Computação?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "O que e onde vocês almoçam na Unicamp?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Onde os alunos da Unicamp que moram em outra cidade moram? Há dormitórios?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Em quais empresas os alunos formados em Computação na Unicamp vão trabalhar?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Existe possibilidade de fazer pós-graduação?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Quantas alunas mulheres há no Instituto de Computação da Unicamp?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Com quais professores terei aula?",
       "answer": "Resposta pendente"
     },
-    { 
+    {
       "type": "course",
       "question": "Quem faz computação fica o dia inteiro no computador?",
       "answer": "Resposta pendente"
