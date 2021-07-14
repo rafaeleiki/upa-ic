@@ -63,8 +63,6 @@ function LandingSection() {
           <p className="subtitle">20 a 23 de julho</p>
         </div>
       </div>
-      <div class="hero-body"></div>
-			<div class="hero-foot"></div>
     </section>
   )
 }
