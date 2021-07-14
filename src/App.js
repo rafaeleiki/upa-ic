@@ -4,6 +4,7 @@ import './App.css'
 
 import Routes from './Routes'
 import AppBar from './components/AppBar'
+import AppFooter from './components/AppFooter'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <div className="App">
         <AppBar />
         <Routes />
+        <AppFooter />
       </div>
     </Router>
   )

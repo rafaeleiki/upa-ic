@@ -1,4 +1,7 @@
 import { render, screen } from '@testing-library/react'
+import { MemoryRouter } from 'react-router-dom'
+
+import App from './App'
 
 jest.mock('bulma-carousel/dist/js/bulma-carousel.min.js', () => ({
   __esModule: true,
@@ -7,10 +10,6 @@ jest.mock('bulma-carousel/dist/js/bulma-carousel.min.js', () => ({
   },
 }))
 
-import App from './App'
-
-test('renders title', () => {
-  render(<App />)
-  const title = screen.getByText(/Instituto de Computação/i)
-  expect(title).toBeInTheDocument()
+test('renders app', () => {
+  render(<App />, { wrapper: MemoryRouter })
 })
