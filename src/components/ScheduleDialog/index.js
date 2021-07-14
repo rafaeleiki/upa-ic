@@ -19,28 +19,31 @@ function ScheduleDialog(props) {
   const speakersInfo = author.map((author) => {
     if (author !== undefined) {
       return (
-        <>
-          <p className="has-text-weight-bold">{author.name}</p>
-          {author.imgPath !== '' && (
-            <img
-              className="image img"
-              src={author.imgPath}
-              alt="Foto do palestrante"
-              align="right"
-            />
-          )}
-          {author.shortBio !== '' && <p>{author.shortBio}</p>}
-          {author.linkedinUrl !== '' && (
-            <>
-              <p className="has-text-weight-bold">
-                Mais informações do palestrante
-              </p>
-              <a href={author.linkedinUrl} target="_blank">
-                <FontAwesomeIcon className="icon is-medium" icon={faLinkedin} />
-              </a>
-            </>
-          )}
-        </>
+        <div className="mb-4 columns">
+          <div className="column is-narrow">
+            {author.imgPath !== '' && (
+              <img
+                className="image img"
+                src={author.imgPath}
+                alt="Foto do palestrante"
+              />
+            )}
+          </div>
+          <div class="column">
+            <p className="has-text-weight-bold">{author.name}</p>
+            {author.shortBio !== '' && <p>{author.shortBio}</p>}
+            {author.linkedinUrl !== '' && (
+              <>
+                <p className="has-text-weight-bold">
+                  Mais informações do palestrante
+                </p>
+                <a href={author.linkedinUrl} target="_blank">
+                  <FontAwesomeIcon className="icon is-medium" icon={faLinkedin} />
+                </a>
+              </>
+            )}
+          </div>
+        </div>
       )
     }
   })
