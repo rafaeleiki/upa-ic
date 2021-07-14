@@ -1,8 +1,15 @@
 .img {
+  display: block;
   padding: 0 0 5px 5px;
   width: 128px;
 }
 
 .modal-card-title {
   flex-shrink: 1;
+}
+
+@media screen and (max-width: 769px), print {
+  .column.is-narrow .img {
+      margin: auto;
+  }
 }

@@ -57,7 +57,7 @@ function Schedule() {
       {modalProps && <ScheduleDialog {...modalProps} />}
 
       <div className="container is-widescreen overflow-auto">
-        <table className="table is-striped is-centered">
+        <table className="table is-striped has-text-left">
           <thead>
             <tr>{tableHeaders}</tr>
           </thead>
