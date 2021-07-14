@@ -10,20 +10,36 @@ import computingDefinitions from '../../data/computing-definitions.json'
 
 const { phrases } = computingDefinitions
 
+const resetCarouselPagination = (carousel) => {
+  const selectorsList = ['.slider-navigation-previous', '.slider-pagination', '.slider-navigation-next'];
+  selectorsList.forEach((selector) => {
+    const nodesList = document.querySelectorAll(selector);
+    nodesList.forEach((node) => {
+      node.parentNode.removeChild(node);
+    });
+  });
+
+  carousel.reset();
+}
+
 function LandingSection() {
   const generateBulma = () => {
-    bulmaCarousel.attach('.hero-carousel', {
+    return bulmaCarousel.attach('.hero-carousel', {
       autoplay: true,
       loop: true,
       pauseOnHover: false,
       autoplaySpeed: 6000,
       slidesToScroll: 1,
       slidesToShow: 1,
-    })
+    });
   }
 
   useEffect(() => {
-    generateBulma()
+    const [carousel] = generateBulma()
+
+    window.addEventListener('resize', () => {
+      resetCarouselPagination(carousel);
+    })
   })
 
   const carouselItems = phrases.map((singlePhrase, index) => (

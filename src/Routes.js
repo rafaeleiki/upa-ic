@@ -16,7 +16,7 @@ function Routes() {
       <Route path="/diversidade">
         <DiversityPage />
       </Route>
-      <Route path="/upa">
+      <Route path="*">
         <Redirect to="/upa" />
       </Route>
     </Switch>

@@ -15,7 +15,6 @@ function Schedule() {
   ))
 
   const renderScheduleItem = (item) => {
-    console.log(item)
     const scheduleProps = {
       title: item.theme,
       description: item.description,
@@ -35,6 +34,7 @@ function Schedule() {
       hour: item.hour,
       closeDialog: () => setModalProps(null),
     }
+
     return (
       <tr
         className="schedule-item"
@@ -56,8 +56,8 @@ function Schedule() {
       <h2 className="title">Programação</h2>
       {modalProps && <ScheduleDialog {...modalProps} />}
 
-      <div className="container is-widescreen">
-        <table className="table is-striped is-centered">
+      <div className="container is-widescreen overflow-auto">
+        <table className="table is-striped has-text-left">
           <thead>
             <tr>{tableHeaders}</tr>
           </thead>

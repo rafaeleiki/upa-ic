@@ -1,10 +1,13 @@
 import { render, screen } from '@testing-library/react'
-import App from './App'
 
-import bulmaCarousel from 'bulma-carousel/dist/js/bulma-carousel.min.js'
 jest.mock('bulma-carousel/dist/js/bulma-carousel.min.js', () => ({
-  attach: jest.fn(),
+  __esModule: true,
+  default: {
+    attach: () => [],
+  },
 }))
+
+import App from './App'
 
 test('renders title', () => {
   render(<App />)
