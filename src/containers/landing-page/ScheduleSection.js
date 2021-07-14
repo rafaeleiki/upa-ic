@@ -15,7 +15,6 @@ function Schedule() {
   ))
 
   const renderScheduleItem = (item) => {
-    console.log(item)
     const scheduleProps = {
       title: item.theme,
       description: item.description,
@@ -35,6 +34,7 @@ function Schedule() {
       hour: item.hour,
       closeDialog: () => setModalProps(null),
     }
+    
     return (
       <tr
         className="schedule-item"
