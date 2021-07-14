@@ -34,7 +34,7 @@ function Schedule() {
       hour: item.hour,
       closeDialog: () => setModalProps(null),
     }
-    
+
     return (
       <tr
         className="schedule-item"
@@ -56,7 +56,7 @@ function Schedule() {
       <h2 className="title">Programação</h2>
       {modalProps && <ScheduleDialog {...modalProps} />}
 
-      <div className="container is-widescreen">
+      <div className="container is-widescreen overflow-auto">
         <table className="table is-striped is-centered">
           <thead>
             <tr>{tableHeaders}</tr>
