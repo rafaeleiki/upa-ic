@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "imageUrl": "upa-ic/assets/ic.png",
+      "imageUrl": "assets/ic.png",
       "sponsorUrl": "http://www.ic.unicamp.br/"
     },
     {
-      "imageUrl": "upa-ic/assets/unicamp.png",
+      "imageUrl": "assets/unicamp.png",
       "sponsorUrl": "http://www.unicamp.br/"
     }
   ]
