@@ -6,6 +6,7 @@ import { faSearch } from '@fortawesome/free-solid-svg-icons'
 import faqData from '../../data/faq.json'
 
 let { data } = faqData
+data = data.filter((question) => question.answer !== '')
 data = data.map((faq) => {
   const { answer, question } = faq
   return {

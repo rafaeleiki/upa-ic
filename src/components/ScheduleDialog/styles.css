@@ -10,6 +10,6 @@
 
 @media screen and (max-width: 769px), print {
   .column.is-narrow .img {
-      margin: auto;
+    margin: auto;
   }
 }

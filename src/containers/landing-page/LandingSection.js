@@ -11,15 +11,19 @@ import computingDefinitions from '../../data/computing-definitions.json'
 const { phrases } = computingDefinitions
 
 const resetCarouselPagination = (carousel) => {
-  const selectorsList = ['.slider-navigation-previous', '.slider-pagination', '.slider-navigation-next'];
+  const selectorsList = [
+    '.slider-navigation-previous',
+    '.slider-pagination',
+    '.slider-navigation-next',
+  ]
   selectorsList.forEach((selector) => {
-    const nodesList = document.querySelectorAll(selector);
+    const nodesList = document.querySelectorAll(selector)
     nodesList.forEach((node) => {
-      node.parentNode.removeChild(node);
-    });
-  });
+      node.parentNode.removeChild(node)
+    })
+  })
 
-  carousel.reset();
+  carousel.reset()
 }
 
 function LandingSection() {
@@ -31,14 +35,14 @@ function LandingSection() {
       autoplaySpeed: 6000,
       slidesToScroll: 1,
       slidesToShow: 1,
-    });
+    })
   }
 
   useEffect(() => {
     const [carousel] = generateBulma()
 
     window.addEventListener('resize', () => {
-      resetCarouselPagination(carousel);
+      resetCarouselPagination(carousel)
     })
   })
 
