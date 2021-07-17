@@ -20,15 +20,15 @@ function ScheduleDialog(props) {
     if (author !== undefined) {
       return (
         <div className="mb-4 columns">
-          <div className="column is-narrow">
-            {author.imgPath !== '' && (
+          {author.imgPath !== '' && (
+            <div className="column is-narrow">
               <img
                 className="image img"
                 src={author.imgPath}
                 alt="Foto do palestrante"
               />
-            )}
-          </div>
+            </div>
+          )}
           <div class="column">
             <p className="has-text-weight-bold">{author.name}</p>
             {author.shortBio !== '' && <p>{author.shortBio}</p>}
@@ -38,7 +38,10 @@ function ScheduleDialog(props) {
                   Mais informações do palestrante
                 </p>
                 <a href={author.linkedinUrl} target="_blank">
-                  <FontAwesomeIcon className="icon is-medium" icon={faLinkedin} />
+                  <FontAwesomeIcon
+                    className="icon is-medium"
+                    icon={faLinkedin}
+                  />
                 </a>
               </>
             )}

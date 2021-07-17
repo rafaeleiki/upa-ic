@@ -17,13 +17,16 @@ function AppBar() {
         <Link to="/upa" className="navbar-item">
           <img src={logoIc} alt="Logo" />
         </Link>
-        <span className={`navbar-burger ${ open ? 'is-active' : '' }`} onClick={() => setOpen(!open)}>
+        <span
+          className={`navbar-burger ${open ? 'is-active' : ''}`}
+          onClick={() => setOpen(!open)}
+        >
           <span></span>
           <span></span>
           <span></span>
         </span>
       </div>
-      <div className={`navbar-menu ${ open ? 'is-active' : ''}`}>
+      <div className={`navbar-menu ${open ? 'is-active' : ''}`}>
         <div className="navbar-end">
           <NavLink
             to="/upa"
@@ -33,14 +36,14 @@ function AppBar() {
             UPA
           </NavLink>
           <NavLink
-            to="/diversidade"
+            to="/upa/diversidade"
             className="navbar-item"
             activeClassName="is-active"
           >
             Diversidade
           </NavLink>
           <NavLink
-            to="/faq"
+            to="/upa/faq"
             className="navbar-item"
             activeClassName="is-active"
           >

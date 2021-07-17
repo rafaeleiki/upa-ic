@@ -1,117 +1,117 @@
 {
-    "a definir": {
-        "linkedinUrl": "",
-        "imgPath": "",
-        "shortBio": ""
-    },
-    "Breno França": {
-        "linkedinUrl": "https://www.linkedin.com/in/brenofranca",
-        "imgPath": "scheduleImages/breno.png",
-        "shortBio": "Professor do Instituto de Computação da UNICAMP e coordenador do LASER (Laboratory for Software Engineering and Reliability), onde conduz pesquisas relacionadas à Engenharia de Software Experimental, Métodos Ágeis de Desenvolvimento de Software, Arquitetura de Software, e Simulação Computacional. Possui doutorado em Engenharia de Sistemas e Computação pela COPPE/UFRJ, onde também realizou estágio de Pós-Doutorado. Concluiu o mestrado e a graduação em Ciência da Computação pela Universidade Federal do Pará (UFPA). Atuou em parceria com diferentes organizações (públicas e privadas) no contexto de Pesquisa & Desenvolvimento para aquisição, avaliação e transferência de tecnologias com apoio de métodos de experimentação, melhoria de processos de desenvolvimento software e capacitação em Engenharia de Software."
-    },
-    "Akari Ueda": {
-        "linkedinUrl": "https://www.linkedin.com/in/akariueda",
-        "imgPath": "scheduleImages/akari.jpeg",
-        "shortBio": "Akari Ueda foi aluna de Ciência da Computação de 2015 a 2019 na Unicamp, onde teve contato com oportunidades de pesquisa, atividades extra curriculares e estágios. Hoje ela trabalha como Engenheira de Software na Microsoft e passa suas horas vagas tentando convencer todo mundo a estudar computação."
-    },
-    "Esther Colombini": {
-        "linkedinUrl": "https://www.linkedin.com/in/esther-colombini-7703278",
-        "imgPath": "scheduleImages/esther.png",
-        "shortBio": "Esther Colombini é professora do Instituto de Computação da Unicamp desde 2016, onde coordena o Laboratório de Robótica e Sistemas Cognitivos (LaRoCS). Seus interesses de pesquisa incluem aprendizado de máquina e IA para robótica autônoma e saúde, com interesse particular em aprendizado por reforço e modelos atenciosos, modelagem cognitiva e robótica na educação. É atualmente coordenadora do curso de Ciência da Computação."
-    },
-    "Sandra Avila": {
-        "linkedinUrl": "https://www.linkedin.com/in/avilasandra",
-        "imgPath": "scheduleImages/sandra.jpg",
-        "shortBio": "Sandra Avila é professora do Instituto de Computação desde 2017. Fez mestrado na UFMG e doutorado na Université Pierre et Marie Curie, na França. Trabalha com Inteligência Artificial e Processamento de Imagens com aplicações na área da saúde, computação forense e geofísica."
-    },
-    "Juliana Borin": {
-        "linkedinUrl": "https://www.linkedin.com/in/jufborin",
-        "imgPath": "scheduleImages/juliana.png",
-        "shortBio": "Juliana é professora no Instituto de Computação da Universidade Estadual de Campinas. Doutora e mestre em Ciência da Computação pela Universidade Estadual de Campinas e Bacharel em Informática pela Universidade Estadual do Oeste do Paraná. Seus interesses de pesquisa envolvem tópicos em Internet das Coisas, Cidades Inteligentes, Indústria 4.0 e Redes de Computadores."
-    },
-    "Alec Santos": {
-        "linkedinUrl": "https://www.linkedin.com/in/alec-lelis-de-oliveira-santos-42b66530",
-        "imgPath": "scheduleImages/alec.png",
-        "shortBio": "Presidente do GAMUX, Alec é  aluno de Ciência da Computação na UNICAMP desde 2018. Ele desenvolve jogos como projetos pessoais e trabalha também como tradutor de jogos."
-    },
-    "Lehilton Pedrosa": {
-        "linkedinUrl": "",
-        "imgPath": "scheduleImages/lehilton.png",
-        "shortBio": "Graduado na Universidade de Brasília em Ciência da Computação e com títulos de Mestre e Doutor no Instituto de Computação da Unicamp. Foi pesquisador visitante do DIMAP na Universidade de Warwick em 2013 e trabalhou como pós-doc no Instituto de Matemática e Estatística da USP em 2015. Atua em Análise e Complexidade de Algoritmos e, particularmente Algoritmos de Aproximação, área na qual recebeu em 2015 o prêmio de melhor tese de doutorado do Brasil pela Sociedade Brasileira de Computação. Atualmente é o Coordenador associado do Curso de Engenharia da Computação no Instituto de Computação. "
-    },
-    "Felipe Bidu": {
-        "linkedinUrl": "https://www.linkedin.com/in/felipes",
-        "imgPath": "scheduleImages/fbidu.png",
-        "shortBio": "Felipe \"Bidu\" é formado em Ciência da Computação, no IC. Com mais de 10 anos de experiência, possui uma carreira que passou por diversas áreas da computação e do desenvolvimento de produtos e serviços digitais. Atualmente, é engenheiro senior na Doist e expert em Ciência de Dados e Modelagem na Tera."
-    },
-    "Ana Clara": {
-        "linkedinUrl": "",
-        "imgPath": "",
-        "shortBio": "Ana Clara é mestranda em Ciência da Computação, com foco em Criptografia, graduada em 2020 pelo Instituto de Computação. Faz parte da gestão do IRIS, sendo também responsável por um de seus projetos de IA (Inteligência Artificial)."
-    },
-    "Henrique Foerste": {
-        "linkedinUrl": "https://www.linkedin.com/in/henrique-theodor-schutz-foerste-a07566155",
-        "imgPath": "scheduleImages/henrique.jpg",
-        "shortBio": "Henrique Foerste é estudante de engenharia elétrica do quinto período. Entrou no IRIS em 2020 como aluno de um projeto e hoje faz parte da gestão. Tem experiência com processamento de som e textos, devido ao projeto que participou e a iniciação científica que está fazendo."
-    },
-    "André Santanché": {
-        "linkedinUrl": "",
-        "imgPath": "scheduleImages/andre.png",
-        "shortBio": "André Santanchè é doutor em ciência da computação e professor do Instituto de Computação (IC), coordenador do Laboratório de Sistemas de Informação (LIS) no IC e diretor do Museu Exploratório de Ciências da Unicamp. Além da experiência acadêmica, já foi empreendedor na área de computação, inclusive em uma startup. Seus interesses de pesquisa são principalmente ciência de dados e educação, com aplicações em saúde."
-    },
-    "Ygor Silva": {
-        "linkedinUrl": "https://www.linkedin.com/in/ygor-silva-de-jesus-95b594209",
-        "imgPath": "scheduleImages/ygor.png",
-        "shortBio": "Ygor Silva é estudante do primeiro ano de Ciência de Computação, onde já está encantado com as oportunidades à sua volta. Recentemente, tem tido grande interesse em Inteligência Artificial e Aprendizado de Máquina e encontra na universidade um espaço sólido de discussão e de crescimento."
-    },
-    "Rafael Eiki": {
-        "linkedinUrl": "https://www.linkedin.com/in/rafaelimamura",
-        "imgPath": "scheduleImages/rafael.png",
-        "shortBio": "Formado em Ciência da Computação na UNICAMP, fez pesquisa em tecnologia para educação, fundou uma startup que foi levada para o Vale do Silício, e hoje é engenheiro de software no QuintoAndar. Tem no currículo empresas como PlayKids (Movile) e Microsoft, além de 35 prêmios acadêmicos, de inovação e de empreendedorismo."
-    },
-    "Flávia Pisani": {
-        "linkedinUrl": "https://www.linkedin.com/in/fpisani",
-        "imgPath": "scheduleImages/flavia.png",
-        "shortBio": "Flávia Pisani é pesquisadora de pós-doutorado no Instituto de Computação da UNICAMP, onde ela está trabalhando em um projeto de Internet das Coisas (IoT) Industrial. Participou da organização do 1º Torneio Feminino de Computação em 2020. Foi pesquisadora de pós-doutorado na PUC-Rio de 2019 a 2020, onde trabalhou como parte do projeto \"Internet do Futuro para Cidades Inteligentes\" da FAPESP. Recebeu o título de Doutora em Ciência da Computação pela UNICAMP em 2019. Formou-se com distinção em Bacharelado em Ciência da Computação pela UNICAMP em 2014. Foi estagiária do programa \"Computer Science Academy\" do Google em Mountain View/CA em 2013."
-    },
-    "Guilherme Furlan": {
-        "linkedinUrl": "https://www.linkedin.com/in/guilherme-furlan",
-        "imgPath": "scheduleImages/guilherme.png",
-        "shortBio": "Formado em Ciência da computação pela Unicamp e atualmente engenheiro de software no QuintoAndar, possui 7 anos de experiência no mercado de trabalho, onde já desempenhou diferentes funções em diferentes empresas. Vencedor de alguns prêmios de inovação com soluções de inclusão e educação financeira."
-    },
-    "Ana Claudia": {
-        "linkedinUrl": "",
-        "imgPath": "",
-        "shortBio": "Estudante do terceiro ano de engenharia elétrica na Unicamp. Membro do coletivo Engenho Negro e do Centro Acadêmico Bernardo Sayão. Tem interesse na área de inteligência computacional."
-    },
-    "Beatriz Inácio": {
-        "linkedinUrl": "https://www.linkedin.com/in/bia-inacio",
-        "imgPath": "scheduleImages/beatriz.png",
-        "shortBio": "Formada em Ciência da Computação na UNICAMP em 2020, trabalha na área da computação há 7 anos. Já foi estagiária, tester, desenvolvedora backend e Scrum Master. Hoje é Analista de Negócio."
-    },
-    "Marcela Medicina": {
-        "linkedinUrl": "https://www.linkedin.com/in/marcelamedicinaf",
-        "imgPath": "scheduleImages/marcela.jpeg",
-        "shortBio": "Graduanda em matemática aplicada e computacional pela UNICAMP. Idealizadora e organizadora do Projeto Meninas SuperCientistas que incentiva meninas de 10 a 14 anos em Ciências Exatas, Tecnologia, Engenharia e Matemática, e idealizadora do Projeto Astrolab que tinha como incentivo e ensino de astronomia. Atualmente realiza pesquisa em anteligência artificial voltada para a detecção de viés de gêneros em textos com processamento de linguagens naturais."
-    },
-    "Thiago Amendola": {
-        "linkedinUrl": "https://www.linkedin.com/in/thiago-amendola",
-        "imgPath": "scheduleImages/thiago.png",
-        "shortBio": "Sou um ex-aluno de Ciência da Computação na Unicamp. Entrei em 2013, participei de diversas entidades e atualmente estou em Vancouver, Canadá trabalhando para a Microsoft como engenheiro de Software."
-    },
-    "Conpec": {
-        "linkedinUrl": "",
-        "imgPath": "scheduleImages/",
-        "shortBio": "A Conpec é uma das primeiras Empresas Juniores de Computação do Brasil, sem fins lucrativos, que está há 30 anos no Mercado da Tecnologia. Somos formados por mais de 30 estudantes dos cursos de Ciência e Engenharia de Computação. O principal objetivo das empresas juniores é desenvolver pessoal e profissionalmente os seus membros por meio da vivência empresarial e da execução de projetos em computação."
-    },
-    "Ivan Gabriel Klug Runge": {
-        "linkedinUrl": "https://www.linkedin.com/in/ivan-gabriel-klug-runge-640017177",
-        "imgPath": "scheduleImages/ivan.png",
-        "shortBio": ""
-    },
-    "Leonardo Kenji Kobaicy": {
-        "linkedinUrl": "",
-        "imgPath": "scheduleImages/kenji.png",
-        "shortBio": ""
-    }
+  "a definir": {
+    "linkedinUrl": "",
+    "imgPath": "",
+    "shortBio": ""
+  },
+  "Breno França": {
+    "linkedinUrl": "https://www.linkedin.com/in/brenofranca",
+    "imgPath": "scheduleImages/breno.png",
+    "shortBio": "Professor do Instituto de Computação da UNICAMP e coordenador do LASER (Laboratory for Software Engineering and Reliability), onde conduz pesquisas relacionadas à Engenharia de Software Experimental, Métodos Ágeis de Desenvolvimento de Software, Arquitetura de Software, e Simulação Computacional. Possui doutorado em Engenharia de Sistemas e Computação pela COPPE/UFRJ, onde também realizou estágio de Pós-Doutorado. Concluiu o mestrado e a graduação em Ciência da Computação pela Universidade Federal do Pará (UFPA). Atuou em parceria com diferentes organizações (públicas e privadas) no contexto de Pesquisa & Desenvolvimento para aquisição, avaliação e transferência de tecnologias com apoio de métodos de experimentação, melhoria de processos de desenvolvimento software e capacitação em Engenharia de Software."
+  },
+  "Akari Ueda": {
+    "linkedinUrl": "https://www.linkedin.com/in/akariueda",
+    "imgPath": "scheduleImages/akari.jpeg",
+    "shortBio": "Akari Ueda foi aluna de Ciência da Computação de 2015 a 2019 na Unicamp, onde teve contato com oportunidades de pesquisa, atividades extra curriculares e estágios. Hoje ela trabalha como Engenheira de Software na Microsoft e passa suas horas vagas tentando convencer todo mundo a estudar computação."
+  },
+  "Esther Colombini": {
+    "linkedinUrl": "https://www.linkedin.com/in/esther-colombini-7703278",
+    "imgPath": "scheduleImages/esther.png",
+    "shortBio": "Esther Colombini é professora do Instituto de Computação da Unicamp desde 2016, onde coordena o Laboratório de Robótica e Sistemas Cognitivos (LaRoCS). Seus interesses de pesquisa incluem aprendizado de máquina e IA para robótica autônoma e saúde, com interesse particular em aprendizado por reforço e modelos atenciosos, modelagem cognitiva e robótica na educação. É atualmente coordenadora do curso de Ciência da Computação."
+  },
+  "Sandra Avila": {
+    "linkedinUrl": "https://www.linkedin.com/in/avilasandra",
+    "imgPath": "scheduleImages/sandra.jpg",
+    "shortBio": "Sandra Avila é professora do Instituto de Computação desde 2017. Fez mestrado na UFMG e doutorado na Université Pierre et Marie Curie, na França. Trabalha com Inteligência Artificial e Processamento de Imagens com aplicações na área da saúde, computação forense e geofísica."
+  },
+  "Juliana Borin": {
+    "linkedinUrl": "https://www.linkedin.com/in/jufborin",
+    "imgPath": "scheduleImages/juliana.png",
+    "shortBio": "Juliana é professora no Instituto de Computação da Universidade Estadual de Campinas. Doutora e mestre em Ciência da Computação pela Universidade Estadual de Campinas e Bacharel em Informática pela Universidade Estadual do Oeste do Paraná. Seus interesses de pesquisa envolvem tópicos em Internet das Coisas, Cidades Inteligentes, Indústria 4.0 e Redes de Computadores."
+  },
+  "Alec Santos": {
+    "linkedinUrl": "https://www.linkedin.com/in/alec-lelis-de-oliveira-santos-42b66530",
+    "imgPath": "scheduleImages/alec.png",
+    "shortBio": "Presidente do GAMUX, Alec é  aluno de Ciência da Computação na UNICAMP desde 2018. Ele desenvolve jogos como projetos pessoais e trabalha também como tradutor de jogos."
+  },
+  "Lehilton Pedrosa": {
+    "linkedinUrl": "",
+    "imgPath": "scheduleImages/lehilton.png",
+    "shortBio": "Graduado na Universidade de Brasília em Ciência da Computação e com títulos de Mestre e Doutor no Instituto de Computação da Unicamp. Foi pesquisador visitante do DIMAP na Universidade de Warwick em 2013 e trabalhou como pós-doc no Instituto de Matemática e Estatística da USP em 2015. Atua em Análise e Complexidade de Algoritmos e, particularmente Algoritmos de Aproximação, área na qual recebeu em 2015 o prêmio de melhor tese de doutorado do Brasil pela Sociedade Brasileira de Computação. Atualmente é o Coordenador associado do Curso de Engenharia da Computação no Instituto de Computação. "
+  },
+  "Felipe Bidu": {
+    "linkedinUrl": "https://www.linkedin.com/in/felipes",
+    "imgPath": "scheduleImages/fbidu.png",
+    "shortBio": "Felipe \"Bidu\" é formado em Ciência da Computação, no IC. Com mais de 10 anos de experiência, possui uma carreira que passou por diversas áreas da computação e do desenvolvimento de produtos e serviços digitais. Atualmente, é engenheiro senior na Doist e expert em Ciência de Dados e Modelagem na Tera."
+  },
+  "Ana Clara": {
+    "linkedinUrl": "",
+    "imgPath": "",
+    "shortBio": "Ana Clara é mestranda em Ciência da Computação, com foco em Criptografia, graduada em 2020 pelo Instituto de Computação. Faz parte da gestão do IRIS, sendo também responsável por um de seus projetos de IA (Inteligência Artificial)."
+  },
+  "Henrique Foerste": {
+    "linkedinUrl": "https://www.linkedin.com/in/henrique-theodor-schutz-foerste-a07566155",
+    "imgPath": "scheduleImages/henrique.jpg",
+    "shortBio": "Henrique Foerste é estudante de engenharia elétrica do quinto período. Entrou no IRIS em 2020 como aluno de um projeto e hoje faz parte da gestão. Tem experiência com processamento de som e textos, devido ao projeto que participou e a iniciação científica que está fazendo."
+  },
+  "André Santanché": {
+    "linkedinUrl": "",
+    "imgPath": "scheduleImages/andre.png",
+    "shortBio": "André Santanchè é doutor em ciência da computação e professor do Instituto de Computação (IC), coordenador do Laboratório de Sistemas de Informação (LIS) no IC e diretor do Museu Exploratório de Ciências da Unicamp. Além da experiência acadêmica, já foi empreendedor na área de computação, inclusive em uma startup. Seus interesses de pesquisa são principalmente ciência de dados e educação, com aplicações em saúde."
+  },
+  "Ygor Silva": {
+    "linkedinUrl": "https://www.linkedin.com/in/ygor-silva-de-jesus-95b594209",
+    "imgPath": "scheduleImages/ygor.png",
+    "shortBio": "Ygor Silva é estudante do primeiro ano de Ciência de Computação, onde já está encantado com as oportunidades à sua volta. Recentemente, tem tido grande interesse em Inteligência Artificial e Aprendizado de Máquina e encontra na universidade um espaço sólido de discussão e de crescimento."
+  },
+  "Rafael Eiki": {
+    "linkedinUrl": "https://www.linkedin.com/in/rafaelimamura",
+    "imgPath": "scheduleImages/rafael.png",
+    "shortBio": "Formado em Ciência da Computação na UNICAMP, fez pesquisa em tecnologia para educação, fundou uma startup que foi levada para o Vale do Silício, e hoje é engenheiro de software no QuintoAndar. Tem no currículo empresas como PlayKids (Movile) e Microsoft, além de 35 prêmios acadêmicos, de inovação e de empreendedorismo."
+  },
+  "Flávia Pisani": {
+    "linkedinUrl": "https://www.linkedin.com/in/fpisani",
+    "imgPath": "scheduleImages/flavia.png",
+    "shortBio": "Flávia Pisani é pesquisadora de pós-doutorado no Instituto de Computação da UNICAMP, onde ela está trabalhando em um projeto de Internet das Coisas (IoT) Industrial. Participou da organização do 1º Torneio Feminino de Computação em 2020. Foi pesquisadora de pós-doutorado na PUC-Rio de 2019 a 2020, onde trabalhou como parte do projeto \"Internet do Futuro para Cidades Inteligentes\" da FAPESP. Recebeu o título de Doutora em Ciência da Computação pela UNICAMP em 2019. Formou-se com distinção em Bacharelado em Ciência da Computação pela UNICAMP em 2014. Foi estagiária do programa \"Computer Science Academy\" do Google em Mountain View/CA em 2013."
+  },
+  "Guilherme Furlan": {
+    "linkedinUrl": "https://www.linkedin.com/in/guilherme-furlan",
+    "imgPath": "scheduleImages/guilherme.png",
+    "shortBio": "Formado em Ciência da computação pela Unicamp e atualmente engenheiro de software no QuintoAndar, possui 7 anos de experiência no mercado de trabalho, onde já desempenhou diferentes funções em diferentes empresas. Vencedor de alguns prêmios de inovação com soluções de inclusão e educação financeira."
+  },
+  "Ana Claudia": {
+    "linkedinUrl": "",
+    "imgPath": "",
+    "shortBio": "Estudante do terceiro ano de engenharia elétrica na Unicamp. Membro do coletivo Engenho Negro e do Centro Acadêmico Bernardo Sayão. Tem interesse na área de inteligência computacional."
+  },
+  "Beatriz Inácio": {
+    "linkedinUrl": "https://www.linkedin.com/in/bia-inacio",
+    "imgPath": "scheduleImages/beatriz.png",
+    "shortBio": "Formada em Ciência da Computação na UNICAMP em 2020, trabalha na área da computação há 7 anos. Já foi estagiária, tester, desenvolvedora backend e Scrum Master. Hoje é Analista de Negócio."
+  },
+  "Marcela Medicina": {
+    "linkedinUrl": "https://www.linkedin.com/in/marcelamedicinaf",
+    "imgPath": "scheduleImages/marcela.jpeg",
+    "shortBio": "Graduanda em matemática aplicada e computacional pela UNICAMP. Idealizadora e organizadora do Projeto Meninas SuperCientistas que incentiva meninas de 10 a 14 anos em Ciências Exatas, Tecnologia, Engenharia e Matemática, e idealizadora do Projeto Astrolab que tinha como incentivo e ensino de astronomia. Atualmente realiza pesquisa em anteligência artificial voltada para a detecção de viés de gêneros em textos com processamento de linguagens naturais."
+  },
+  "Thiago Amendola": {
+    "linkedinUrl": "https://www.linkedin.com/in/thiago-amendola",
+    "imgPath": "scheduleImages/thiago.png",
+    "shortBio": "Sou um ex-aluno de Ciência da Computação na Unicamp. Entrei em 2013, participei de diversas entidades e atualmente estou em Vancouver, Canadá trabalhando para a Microsoft como engenheiro de Software."
+  },
+  "Conpec": {
+    "linkedinUrl": "",
+    "imgPath": "",
+    "shortBio": "A Conpec é uma das primeiras Empresas Juniores de Computação do Brasil, sem fins lucrativos, que está há 30 anos no Mercado da Tecnologia. Somos formados por mais de 30 estudantes dos cursos de Ciência e Engenharia de Computação. O principal objetivo das empresas juniores é desenvolver pessoal e profissionalmente os seus membros por meio da vivência empresarial e da execução de projetos em computação."
+  },
+  "Ivan Gabriel Klug Runge": {
+    "linkedinUrl": "https://www.linkedin.com/in/ivan-gabriel-klug-runge-640017177",
+    "imgPath": "scheduleImages/ivan.png",
+    "shortBio": ""
+  },
+  "Leonardo Kenji Kobaicy": {
+    "linkedinUrl": "",
+    "imgPath": "scheduleImages/kenji.png",
+    "shortBio": ""
+  }
 }

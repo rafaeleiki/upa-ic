@@ -11,7 +11,11 @@ function SponsorsSection() {
 
       <div className="columns is-mobile is-centered">
         {data.map((sponsor) => (
-          <a className="sponsor-container" href={sponsor.sponsorUrl} target="_blank">
+          <a
+            className="sponsor-container"
+            href={sponsor.sponsorUrl}
+            target="_blank"
+          >
             <img className="sponsor" src={sponsor.imageUrl} />
           </a>
         ))}

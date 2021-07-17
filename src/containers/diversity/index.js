@@ -11,7 +11,8 @@ function DiversityPage() {
               <div className="level-item has-text-centered">
                 <div>
                   <p className="heading">Mulheres</p>
-                  <p className="title">XXXX</p>
+                  <p className="title">109 na graduação</p>
+                  <p className="title">62 na pós-graduação</p>
                 </div>
               </div>
               <div className="level-item has-text-centered">
