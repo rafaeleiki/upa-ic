@@ -1,139 +1,138 @@
 {
-  "data": [
-    {
-      "type": "upa",
-      "question": "Como será o UPA do Instituto de Computação?",
-      "answer": "O evento será 100% online esse ano, através de uma transmissão no YouTube. Basta um celular, tablet ou computador para participar. Acesse a nossa programação aqui e os links das transmissões aqui."
-    },
-    {
-      "type": "upa",
-      "question": "Preciso me inscrever antes?",
-      "answer": "Não. Fique à vontade para abrir a transmissão no YouTube quando quiser e participar."
-    },
-    {
-      "type": "upa",
-      "question": "Preciso pagar para participar?",
-      "answer": "Não! O evento é 100% gratuito!"
-    },
-    {
-      "type": "upa",
-      "question": "Posso chamar meus amigos e meus pais para assistir comigo?",
-      "answer": "Com certeza! Amigos e a família são peças importantes na hora de te ajudar a escolher uma carreira. É muito comum alunos participarem do UPA acompanhados pelos pais ou responsáveis."
-    },
-    {
-      "type": "upa",
-      "question": "Posso assistir só uma palestra ou preciso assistir o evento inteiro?",
-      "answer": "Fique à vontade para assistir apenas às palestras que você tem interesse. No cronograma você consegue ver a descrição de cada palestra para decidir o que assistir."
-    },
-    {
-      "type": "upa",
-      "question": "As palestras ficarão gravadas após o UPA?",
-      "answer": "Sim. Elas ficarão disponíveis no canal do Instituto de Computação da Unicamp no <a href='https://aovivo.ic.unicamp.br' target='_blank'>aovivo.ic.unicamp.br</a>. "
-    },
-    {
-      "type": "course",
-      "question": "Posso trabalhar enquanto faço o curso?",
-      "answer": ""
-    },
-    {
-      "type": "course",
-      "question": "Qual a diferença entre Ciência da Computação e Engenharia da Computação?",
-      "answer": ""
-    },
-    {
-      "type": "course",
-      "question": "Qual a atuação de um Cientista ou Engenheiro da Computação no mercado de trabalho?",
-      "answer": ""
-    },
-    {
-      "type": "course",
-      "question": "Qual curso é melhor para fazer jogos?",
-      "answer": ""
-    },
-    {
-      "type": "course",
-      "question": "O curso cobre disciplinas envolvendo Design e Photoshop?",
-      "answer": "Não, o principal motivo é que a computação é uma área acadêmica, logo o curso é muito mais focado em princípios teóricos do que tecnologias específicas, como photoshop. Além disso, a computação é derivada da matemática (Por isso o IMECC tem esse nome - Instituto de Matemática, Estatística e Computação Científica), então áreas como Design gráfico acabam ficando fora do escopo dos cursos de computação. Porém, existe sim uma subárea da computação chamada Interação Humano Computador que é mistura, do ponto de vista teórico, psicologia, design e computação para melhorar a forma que humanos usam computadores e tecnologia."
-    },
-    {
-      "type": "course",
-      "question": "Qual o nível de empregabilidade de alguém formado em Computação na Unicamp?",
-      "answer": "Alto. Estamos vivenciando um boom na área de desenvolvimento de software no Brasil e no mundo. A Unicamp forma alunos muito competentes que são visados tanto na indústria quanto na área acadêmica."
-    },
-    {
-      "type": "course",
-      "question": "A Unicamp oferece bolsa para ajudar na permanência de alunos carentes?",
-      "answer": "Com certeza, existem bolsas para auxiliar na alimentação, transporte e moradia. Todas as bolsas são coordenadas e oferecidas pelo SAE, o Serviço de Apoio ao Estudante (https://www.sae.unicamp.br/)."
-    },
-    {
-      "type": "course",
-      "question": "Vocês têm curso de Análise de Sistemas ou Sistemas de Informação?",
-      "answer": "Sim, além dos cursos de Ciência e Engenharia da Computação oferecidos no campus de Barão Geraldo, temos o curso de Tecnologia em Análise e Desenvolvimento de Sistemas e o Bacharelado em Sistemas de Informação oferecido pela Faculdade de Tecnologia da Unicamp em Limeira."
-    },
-    {
-      "type": "course",
-      "question": "Não gosto de matemática/física, posso fazer Computação?",
-      "answer": "Claro - Nem tudo envolve matemática no curso, e é possível passar pelo curso apesar da carga matemática exigida. Além disso, a matemática envolvida na computação (E também a matemática do ensino superior em geral) é bastante diferente do que estamos acostumados a ver no Ensino Médio, então talvez você até descubra um gosto por partes diferentes da matemática."
-    },
-    {
-      "type": "course",
-      "question": "Precisa saber inglês para fazer Computação?",
-      "answer": "Não precisa, dá pra se virar sem, mas ajuda muito."
-    },
-    {
-      "type": "course",
-      "question": "Vim de escola pública, vou ter dificuldades de fazer Computação?",
-      "answer": "Realmente há uma curva de aprendizado maior vindo de uma escola pública comparado com quem vem de uma escola privada. Porém, o nível exigido pela faculdade acaba lixando essas diferenças e, em poucos semestres, todos os alunos já estão “no mesmo nível” mesmo vindo de colégios com ensinos diferentes."
-    },
-    {
-      "type": "course",
-      "question": "Vocês têm a possibilidade de fazer intercâmbio?",
-      "answer": "Sim. Nós temos um International Office na Unicamp que cuida de acordos de intercâmbios com outras universidades ao redor do mundo e disponibiliza os editais neste link (http://www.internationaloffice.unicamp.br/editais-alunos/). No entanto, após o Ciências sem Fronteiras, são poucas as oportunidades de intercâmbio com bolsa de estudos."
-    },
-    {
-      "type": "course",
-      "question": "Que disciplinas existem nos cursos de Ciência e Engenharia de Computação?",
-      "answer": "Na Unicamp, os alunos têm liberdade de escolher quais disciplinas querem cursar a cada semestre. No entanto, para se formar em um curso, é necessário completar todas as disciplinas daquele curso. Confira nestes links a lista completa de disciplinas para se formar em Ciência da Computação (https://www.dac.unicamp.br/sistemas/catalogos/grad/catalogo2021/cursos/42g/curriculo.html) e em Engenharia de Computação (https://www.dac.unicamp.br/sistemas/catalogos/grad/catalogo2021/cursos/34g/curriculo.html)"
-    },
-    {
-      "type": "course",
-      "question": "Quais são as modalidades do curso de Engenharia de Computação?",
-      "answer": ""
-    },
-    {
-      "type": "course",
-      "question": "O que e onde vocês almoçam na Unicamp?",
-      "answer": "Existem três restaurantes universitários dentro do campus de Barão Geraldo, o RU, o RS e o RA. O RS (Restaurante Saturnino, chamado assim por ficar na rua Saturnino de Brito) é o mais próximo do Instituto de Computação, mas a comida servida nos três é a mesma. Alunos pagam três reais por refeição e alunos carentes são elegíveis a bolsas que custeiam a alimentação. Todas as bolsas para estudantes carentes são gerenciadas pelo Serviço de Apoio ao Estudante (mais informações no site do SAE https://www.sae.unicamp.br/)"
-    },
-    {
-      "type": "course",
-      "question": "Onde os alunos da Unicamp que moram em outra cidade moram? Há dormitórios?",
-      "answer": "A Unicamp possui três campi: Campinas, Limeira e Piracicaba. O instituto de computação é situado em Campinas, no distrito de Barão Geraldo. Este distrito, por sediar a Unicamp, conta com muitas repúblicas estudantis e kitnets. O preço, porém, é um pouco salgado. Morar em república custa aproximadamente entre R$400 e R$800, enquanto que para morar em kitnet individual, o valor é acima de R$1000. Estudantes carentes são elegíveis a bolsas auxílio-moradia. Todas as bolsas auxílio-permanência são gerenciadas pelo Serviço de Apoio ao Estudante (mais informações no site do SAE https://www.sae.unicamp.br/)"
-    },
-    {
-      "type": "course",
-      "question": "Em quais empresas os alunos formados em Computação na Unicamp vão trabalhar?",
-      "answer": "A região de Campinas é um grande polo tecnológico que conta com várias empresas de tecnologia. Alguns nomes grandes da região são iFood, Dextra, IBM, CI&T, Daitan Group, QuintoAndar, Instituto Eldorado, Stoom e Motorola. Fora da região de Campinas, nossos alunos estão espalhados por muitas empresas dentro e fora do Brasil: Mercado Livre, Itaú, Santander, Bradesco, Nubank, Facebook, Microsoft, Google, Amazon, Uber, VTEX, PicPay, etc. Lembrando que a nossa área é extremamente privilegiada com a possibilidade de fazer trabalho remoto."
-    },
-    {
-      "type": "course",
-      "question": "Existe possibilidade de fazer pós-graduação?",
-      "answer": "Com toda a certeza! O Instituto de Computação possui um programa de mestrado e um programa de doutorado, ambos com nota máxima na CAPES (o órgão que regulamenta cursos de pós-graduação no Brasil). Muitos de nossos alunos da pós têm suas pesquisas premiadas em várias conferências e vários fazem parte de seus cursos de doutorado no exterior, em grandes universidades renomadas ao redor do mundo."
-    },
-    {
-      "type": "course",
-      "question": "Quantas alunas mulheres há no Instituto de Computação da Unicamp?",
-      "answer": ""
-    },
-    {
-      "type": "course",
-      "question": "Com quais professores terei aula?",
-      "answer": "Nesta página (https://ic.unicamp.br/docentes/), você encontra uma lista com todos os professores do Instituto de Computação e links para as páginas pessoais deles. Vale a pena conferir. No entanto, nos cursos de computação você também fará matérias no Instituto de Física, Instituto de Matemática e em outras unidades. Cada unidade da Unicamp tem seu corpo docente."
-    },
-    {
-      "type": "course",
-      "question": "Quem faz computação fica o dia inteiro no computador?",
-      "answer": ""
-    }
-  ]
+    "data": [{
+            "type": "upa",
+            "question": "Como será o UPA do Instituto de Computação?",
+            "answer": "O evento será 100% online esse ano, através de uma transmissão no YouTube. Basta um celular, tablet ou computador para participar. Acesse a nossa programação aqui e os links das transmissões aqui."
+        },
+        {
+            "type": "upa",
+            "question": "Preciso me inscrever antes?",
+            "answer": "Não. Fique à vontade para abrir a transmissão no YouTube quando quiser e participar."
+        },
+        {
+            "type": "upa",
+            "question": "Preciso pagar para participar?",
+            "answer": "Não! O evento é 100% gratuito!"
+        },
+        {
+            "type": "upa",
+            "question": "Posso chamar meus amigos e meus pais para assistir comigo?",
+            "answer": "Com certeza! Amigos e a família são peças importantes na hora de te ajudar a escolher uma carreira. É muito comum alunos participarem do UPA acompanhados pelos pais ou responsáveis."
+        },
+        {
+            "type": "upa",
+            "question": "Posso assistir só uma palestra ou preciso assistir o evento inteiro?",
+            "answer": "Fique à vontade para assistir apenas às palestras que você tem interesse. No cronograma você consegue ver a descrição de cada palestra para decidir o que assistir."
+        },
+        {
+            "type": "upa",
+            "question": "As palestras ficarão gravadas após o UPA?",
+            "answer": "Sim. Elas ficarão disponíveis no canal do Instituto de Computação da Unicamp no <a href='https://aovivo.ic.unicamp.br' target='_blank'>aovivo.ic.unicamp.br</a>. "
+        },
+        {
+            "type": "course",
+            "question": "Posso trabalhar enquanto faço o curso?",
+            "answer": ""
+        },
+        {
+            "type": "course",
+            "question": "Qual a diferença entre Ciência da Computação e Engenharia da Computação?",
+            "answer": ""
+        },
+        {
+            "type": "course",
+            "question": "Qual a atuação de um Cientista ou Engenheiro da Computação no mercado de trabalho?",
+            "answer": ""
+        },
+        {
+            "type": "course",
+            "question": "Qual curso é melhor para fazer jogos?",
+            "answer": ""
+        },
+        {
+            "type": "course",
+            "question": "O curso cobre disciplinas envolvendo Design e Photoshop?",
+            "answer": "Não, o principal motivo é que a computação é uma área acadêmica, logo o curso é muito mais focado em princípios teóricos do que tecnologias específicas, como photoshop. Além disso, a computação é derivada da matemática (Por isso o IMECC tem esse nome - Instituto de Matemática, Estatística e Computação Científica), então áreas como Design gráfico acabam ficando fora do escopo dos cursos de computação. Porém, existe sim uma subárea da computação chamada Interação Humano Computador que é mistura, do ponto de vista teórico, psicologia, design e computação para melhorar a forma que humanos usam computadores e tecnologia."
+        },
+        {
+            "type": "course",
+            "question": "Qual o nível de empregabilidade de alguém formado em Computação na Unicamp?",
+            "answer": "Alto. Estamos vivenciando um boom na área de desenvolvimento de software no Brasil e no mundo. A Unicamp forma alunos muito competentes que são visados tanto na indústria quanto na área acadêmica."
+        },
+        {
+            "type": "course",
+            "question": "A Unicamp oferece bolsa para ajudar na permanência de alunos carentes?",
+            "answer": "Com certeza, existem bolsas para auxiliar na alimentação, transporte e moradia. Todas as bolsas são coordenadas e oferecidas pelo SAE, o Serviço de Apoio ao Estudante (<a href='https://www.sae.unicamp.br/' target='_blank'>sae.unicamp.br/</a>)."
+        },
+        {
+            "type": "course",
+            "question": "Vocês têm curso de Análise de Sistemas ou Sistemas de Informação?",
+            "answer": "Sim, além dos cursos de Ciência e Engenharia da Computação oferecidos no campus de Barão Geraldo, temos o curso de Tecnologia em Análise e Desenvolvimento de Sistemas e o Bacharelado em Sistemas de Informação oferecido pela Faculdade de Tecnologia da Unicamp em Limeira."
+        },
+        {
+            "type": "course",
+            "question": "Não gosto de matemática/física, posso fazer Computação?",
+            "answer": "Claro - Nem tudo envolve matemática no curso, e é possível passar pelo curso apesar da carga matemática exigida. Além disso, a matemática envolvida na computação (E também a matemática do ensino superior em geral) é bastante diferente do que estamos acostumados a ver no Ensino Médio, então talvez você até descubra um gosto por partes diferentes da matemática."
+        },
+        {
+            "type": "course",
+            "question": "Precisa saber inglês para fazer Computação?",
+            "answer": "Não precisa, dá pra se virar sem, mas ajuda muito."
+        },
+        {
+            "type": "course",
+            "question": "Vim de escola pública, vou ter dificuldades de fazer Computação?",
+            "answer": "Realmente há uma curva de aprendizado maior vindo de uma escola pública comparado com quem vem de uma escola privada. Porém, o nível exigido pela faculdade acaba lixando essas diferenças e, em poucos semestres, todos os alunos já estão “no mesmo nível” mesmo vindo de colégios com ensinos diferentes."
+        },
+        {
+            "type": "course",
+            "question": "Vocês têm a possibilidade de fazer intercâmbio?",
+            "answer": "Sim. Nós temos um International Office na Unicamp que cuida de acordos de intercâmbios com outras universidades ao redor do mundo e disponibiliza os editais neste link (<a href='http://www.internationaloffice.unicamp.br/editais-alunos/' target='_blank'>www.internationaloffice.unicamp.br/editais-alunos/</a>). No entanto, após o Ciências sem Fronteiras, são poucas as oportunidades de intercâmbio com bolsa de estudos."
+        },
+        {
+            "type": "course",
+            "question": "Que disciplinas existem nos cursos de Ciência e Engenharia de Computação?",
+            "answer": "Na Unicamp, os alunos têm liberdade de escolher quais disciplinas querem cursar a cada semestre. No entanto, para se formar em um curso, é necessário completar todas as disciplinas daquele curso. Confira nestes links a lista completa de disciplinas para se formar em Ciência da Computação (<a href='https://www.dac.unicamp.br/sistemas/catalogos/grad/catalogo2021/cursos/42g/curriculo.html' target='_blank'>www.dac.unicamp.br/sistemas/catalogos/grad/catalogo2021/cursos/42g/curriculo.html</a>) e em Engenharia de Computação (<a href='https://www.dac.unicamp.br/sistemas/catalogos/grad/catalogo2021/cursos/34g/curriculo.html' target='_blank'>www.dac.unicamp.br/sistemas/catalogos/grad/catalogo2021/cursos/34g/curriculo.html</a>)"
+        },
+        {
+            "type": "course",
+            "question": "Quais são as modalidades do curso de Engenharia de Computação?",
+            "answer": ""
+        },
+        {
+            "type": "course",
+            "question": "O que e onde vocês almoçam na Unicamp?",
+            "answer": "Existem três restaurantes universitários dentro do campus de Barão Geraldo, o RU, o RS e o RA. O RS (Restaurante Saturnino, chamado assim por ficar na rua Saturnino de Brito) é o mais próximo do Instituto de Computação, mas a comida servida nos três é a mesma. Alunos pagam três reais por refeição e alunos carentes são elegíveis a bolsas que custeiam a alimentação. Todas as bolsas para estudantes carentes são gerenciadas pelo Serviço de Apoio ao Estudante (mais informações no site do SAE <a href='https://www.sae.unicamp.br/' target='_blank'>www.sae.unicamp.br/</a>)"
+        },
+        {
+            "type": "course",
+            "question": "Onde os alunos da Unicamp que moram em outra cidade moram? Há dormitórios?",
+            "answer": "A Unicamp possui três campi: Campinas, Limeira e Piracicaba. O instituto de computação é situado em Campinas, no distrito de Barão Geraldo. Este distrito, por sediar a Unicamp, conta com muitas repúblicas estudantis e kitnets. O preço, porém, é um pouco salgado. Morar em república custa aproximadamente entre R$400 e R$800, enquanto que para morar em kitnet individual, o valor é acima de R$1000. Estudantes carentes são elegíveis a bolsas auxílio-moradia. Todas as bolsas auxílio-permanência são gerenciadas pelo Serviço de Apoio ao Estudante (mais informações no site do SAE <a href='https://www.sae.unicamp.br/' target='_blank'>www.sae.unicamp.br</a>)"
+        },
+        {
+            "type": "course",
+            "question": "Em quais empresas os alunos formados em Computação na Unicamp vão trabalhar?",
+            "answer": "A região de Campinas é um grande polo tecnológico que conta com várias empresas de tecnologia. Alguns nomes grandes da região são iFood, Dextra, IBM, CI&T, Daitan Group, QuintoAndar, Instituto Eldorado, Stoom e Motorola. Fora da região de Campinas, nossos alunos estão espalhados por muitas empresas dentro e fora do Brasil: Mercado Livre, Itaú, Santander, Bradesco, Nubank, Facebook, Microsoft, Google, Amazon, Uber, VTEX, PicPay, etc. Lembrando que a nossa área é extremamente privilegiada com a possibilidade de fazer trabalho remoto."
+        },
+        {
+            "type": "course",
+            "question": "Existe possibilidade de fazer pós-graduação?",
+            "answer": "Com toda a certeza! O Instituto de Computação possui um programa de mestrado e um programa de doutorado, ambos com nota máxima na CAPES (o órgão que regulamenta cursos de pós-graduação no Brasil). Muitos de nossos alunos da pós têm suas pesquisas premiadas em várias conferências e vários fazem parte de seus cursos de doutorado no exterior, em grandes universidades renomadas ao redor do mundo."
+        },
+        {
+            "type": "course",
+            "question": "Quantas alunas mulheres há no Instituto de Computação da Unicamp?",
+            "answer": ""
+        },
+        {
+            "type": "course",
+            "question": "Com quais professores terei aula?",
+            "answer": "Nesta página (<a href='https://ic.unicamp.br/docentes/' target='_blank'>ic.unicamp.br/docentes/</a>), você encontra uma lista com todos os professores do Instituto de Computação e links para as páginas pessoais deles. Vale a pena conferir. No entanto, nos cursos de computação você também fará matérias no Instituto de Física, Instituto de Matemática e em outras unidades. Cada unidade da Unicamp tem seu corpo docente."
+        },
+        {
+            "type": "course",
+            "question": "Quem faz computação fica o dia inteiro no computador?",
+            "answer": ""
+        }
+    ]
 }
