@@ -81,7 +81,7 @@
       "day": "21/07",
       "hour": "15:50",
       "theme": "CACO",
-      "assignee": ["a definir"],
+      "assignee": ["gestão do CACo"],
       "description": "Nessa apresentação vamos trazer alguns de nossos integrantes pra contar sobre como é participar disso tudo e aproveitar pra mostrar um pouco dos nossos últimos projetos."
     },
     {
@@ -149,6 +149,13 @@
     },
     {
       "day": "23/07",
+      "hour": "14:20",
+      "theme": "Empreendedorismo e Startups: da ideia ao negócio",
+      "assignee": ["Augusto Gouveia"],
+      "description": "Vamos falar um pouco sobre o ecossistema de empreendedorismo na Unicamp/Campinas e oportunidades dentro da Universidade."
+    },
+    {
+      "day": "23/07",
       "hour": "14:40",
       "theme": "Trabalhando com computação sem programação",
       "assignee": ["Beatriz Inácio"],
@@ -174,6 +181,13 @@
       "theme": "Da Graduação ao Exterior: a paixão por games no desenvolvimento profissional",
       "assignee": ["Thiago Amendola"],
       "description": "Irei contar sobre o início da minha graduação, como minha afinidade por games me fez conhecer o Gamux e o impacto disso para minha carreira no exterior."
+    },
+    {
+      "day": "23/07",
+      "hour": "16:50",
+      "theme": "Conhecendo o mundo da programação competitiva",
+      "assignee": ["Matheus Leal Viana"],
+      "description": "O palestrante vai abordar sobre suas experiências como um competidor de programação competitiva. Como começar a competir? Qual a rotina de estudos? Como é uma competição? Quais são as maiores dificuldades e oportunidades trazidas por essa atividade? Essas e outras perguntas serão abordadas ao longo da conversa."
     }
   ]
 }
