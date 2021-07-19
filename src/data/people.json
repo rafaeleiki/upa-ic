@@ -113,5 +113,20 @@
     "linkedinUrl": "",
     "imgPath": "scheduleImages/kenji.png",
     "shortBio": ""
+  },
+  "Matheus Leal Viana": {
+    "linkedinUrl": "",
+    "imgPath": "",
+    "shortBio": "Estudante de Ciência da Computação na UNICAMP, Matheus Leal possui diversas premiações em competições de programação. Em 2018 foi classificado para representar o Brasil na Olimpíada Internacional de Informática no Japão, medalha de ouro na Maratona de Programação 2020 e classificado para Final Mundial."
+  },
+  "Augusto Gouveia": {
+    "linkedinUrl": "https://www.linkedin.com/in/augusto-m-gouveia-87b6b083/",
+    "imgPath": "scheduleImages/augusto.jpeg",
+    "shortBio": "Presidente da Liga Empreendedora da Unicamp."
+  },
+  "Gestão do CACo": {
+    "linkedinUrl": "",
+    "imgPath": "scheduleImages/caco.jpeg",
+    "shortBio": "Gestão do CACo"
   }
 }
